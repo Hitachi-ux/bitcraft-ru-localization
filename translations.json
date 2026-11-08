@@ -1,0 +1,2555 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "index": "2",
+      "source": "You can't do that",
+      "translation": "Вы не можете этого сделать"
+    },
+    {
+      "index": "5",
+      "source": "You do not have permission to move this building",
+      "translation": "У вас нет прав на перемещение этого здания"
+    },
+    {
+      "index": "10",
+      "source": "{0} Projects",
+      "translation": "Проекты: {0}"
+    },
+    {
+      "index": "13",
+      "source": "Open in Compendium",
+      "translation": "Открыть в компендиуме"
+    },
+    {
+      "index": "23",
+      "source": "Claim is already fully supplied",
+      "translation": "Владение уже полностью обеспечено припасами"
+    },
+    {
+      "index": "29",
+      "source": "Are you sure you want to mute this player in chat?",
+      "translation": "Вы уверены, что хотите заглушить этого игрока в чате?"
+    },
+    {
+      "index": "30",
+      "source": "Mute",
+      "translation": "Заглушить"
+    },
+    {
+      "index": "38",
+      "source": "You haven't learned to read yet",
+      "translation": "Вы ещё не научились читать"
+    },
+    {
+      "index": "58",
+      "source": "{0} queue time",
+      "translation": "Время в очереди: {0}"
+    },
+    {
+      "index": "69",
+      "source": "Progression",
+      "translation": "Развитие"
+    },
+    {
+      "index": "78",
+      "source": "Toggle Map",
+      "translation": "Открыть или закрыть карту"
+    },
+    {
+      "index": "79",
+      "source": "Can't move",
+      "translation": "Не удаётся переместиться"
+    },
+    {
+      "index": "90",
+      "source": "Deleting your empire will be permanent and cannot be undone.",
+      "translation": "Удаление империи необратимо."
+    },
+    {
+      "index": "97",
+      "source": "We encountered an error",
+      "translation": "Произошла ошибка"
+    },
+    {
+      "index": "109",
+      "source": "Novice",
+      "translation": "Юнец"
+    },
+    {
+      "index": "117",
+      "source": "Legendary",
+      "translation": "Легенда"
+    },
+    {
+      "index": "121",
+      "source": "You don't carry this item",
+      "translation": "У вас нет этого предмета"
+    },
+    {
+      "index": "123",
+      "source": "You need to be level {0} in {1}",
+      "translation": "Требуемый уровень навыка «{1}»: {0}"
+    },
+    {
+      "index": "130",
+      "source": "Pan Camera",
+      "translation": "Панорамная камера"
+    },
+    {
+      "index": "140",
+      "source": "Claim A Capsule",
+      "translation": "Получить капсулу"
+    },
+    {
+      "index": "146",
+      "source": "Move {0} Out",
+      "translation": "Выселить {0}"
+    },
+    {
+      "index": "152",
+      "source": "Status and location shared to only claim and friends",
+      "translation": "Статус и местоположение доступны только для участников и друзей"
+    },
+    {
+      "index": "154",
+      "source": "Status and location shared to no one",
+      "translation": "Статус и местоположение никому не видны"
+    },
+    {
+      "index": "155",
+      "source": "Dropped",
+      "translation": "Выбросить"
+    },
+    {
+      "index": "161",
+      "source": "Hello, little one.",
+      "translation": "Привет, малыш."
+    },
+    {
+      "index": "168",
+      "source": "Unlisted channels are private and invite-only.",
+      "translation": "Скрытые каналы закрыты для посторонних: в них можно попасть только по приглашению."
+    },
+    {
+      "index": "170",
+      "source": "Players can request access to controlled channels.",
+      "translation": "Игроки могут запросить доступ к закрытым каналам."
+    },
+    {
+      "index": "171",
+      "source": "Public channels are freely joined.",
+      "translation": "К открытым каналам может присоединиться любой игрок."
+    },
+    {
+      "index": "179",
+      "source": "The owner can edit the channel details plus manage its members.",
+      "translation": "Владелец может изменять настройки канала и управлять его участниками."
+    },
+    {
+      "index": "181",
+      "source": "Officers can manage its members.",
+      "translation": "Офицеры могут управлять участниками канала."
+    },
+    {
+      "index": "369",
+      "source": "Withdraw All",
+      "translation": "Выкинуть всё"
+    },
+    {
+      "index": "419",
+      "source": "Basic",
+      "translation": "Базовый"
+    },
+    {
+      "index": "426",
+      "source": "common",
+      "translation": "обычный"
+    },
+    {
+      "index": "434",
+      "source": "BuildingColliders",
+      "translation": "Создание коллайдеров"
+    },
+    {
+      "index": "435",
+      "source": "ResourceColliders",
+      "translation": "Ресурсы коллайдеров"
+    },
+    {
+      "index": "483",
+      "source": "New Citizen",
+      "translation": "Новый поселенец"
+    },
+    {
+      "index": "484",
+      "source": "Citizen Left",
+      "translation": "Поселенец ушёл"
+    },
+    {
+      "index": "495",
+      "source": "Left Empire",
+      "translation": "Покинул Империю"
+    },
+    {
+      "index": "542",
+      "source": "Auto pick-up items",
+      "translation": "Автоподбор"
+    },
+    {
+      "index": "543",
+      "source": "Fill deployables first",
+      "translation": "Сначала объекты"
+    },
+    {
+      "index": "551",
+      "source": "chat-small",
+      "translation": "малый"
+    },
+    {
+      "index": "552",
+      "source": "chat-default",
+      "translation": "стандартный"
+    },
+    {
+      "index": "553",
+      "source": "chat-large",
+      "translation": "большой"
+    },
+    {
+      "index": "554",
+      "source": "Whisper",
+      "translation": "Шёпот"
+    },
+    {
+      "index": "1731",
+      "source": "Heimlich",
+      "translation": "Хеймлих"
+    },
+    {
+      "index": "4259",
+      "source": "Heimlich's House",
+      "translation": "Дом Хеймлиха"
+    },
+    {
+      "index": "4261",
+      "source": "Heimlich's Workbench",
+      "translation": "Верстак Хеймлиха"
+    },
+    {
+      "index": "4262",
+      "source": "Heimlich Camp",
+      "translation": "Лагерь Хеймлиха"
+    },
+    {
+      "index": "4987",
+      "source": "Alpha Jakyl",
+      "translation": "Альфа-шакал"
+    },
+    {
+      "index": "5001",
+      "source": "Astralite Ore Chunk",
+      "translation": "Глыба астралитовой руды"
+    },
+    {
+      "index": "5009",
+      "source": "Aurumite Ore Chunk",
+      "translation": "Глыба аурумитовой руды"
+    },
+    {
+      "index": "5036",
+      "source": "Celestium Ore Chunk",
+      "translation": "Глыба целестиевой руды"
+    },
+    {
+      "index": "5042",
+      "source": "Desert Terrorbird",
+      "translation": "Пустынная птица-ужаса"
+    },
+    {
+      "index": "5047",
+      "source": "Elenvar Ore Chunk",
+      "translation": "Глыба эленваровой руды"
+    },
+    {
+      "index": "5051",
+      "source": "Emarium Ore Chunk",
+      "translation": "Глыба эмариевой руды"
+    },
+    {
+      "index": "5070",
+      "source": "Exquisite Cloth Tarp",
+      "translation": "Изысканный тканевый тент"
+    },
+    {
+      "index": "5109",
+      "source": "Exquisite Timber",
+      "translation": "Изысканный пиломатериал"
+    },
+    {
+      "index": "5126",
+      "source": "Ferralith Ore Chunk",
+      "translation": "Глыба ферралитовой руды"
+    },
+    {
+      "index": "5130",
+      "source": "Fine Brick Slab",
+      "translation": "Хорошая кирпичная плита"
+    },
+    {
+      "index": "5134",
+      "source": "Fine Cloth Tarp",
+      "translation": "Хороший тканевый тент"
+    },
+    {
+      "index": "5145",
+      "source": "Fine Leather Sheeting",
+      "translation": "Хорошая кожаная обшивка"
+    },
+    {
+      "index": "5154",
+      "source": "Fine Stone Chunk",
+      "translation": "Хороший каменный обломок"
+    },
+    {
+      "index": "5156",
+      "source": "Fine Timber",
+      "translation": "Хороший пиломатериал"
+    },
+    {
+      "index": "5157",
+      "source": "Fine Trunk",
+      "translation": "Хороший ствол"
+    },
+    {
+      "index": "5168",
+      "source": "Flawless Cloth Tarp",
+      "translation": "Безупречный тканевый тент"
+    },
+    {
+      "index": "5192",
+      "source": "Flawless Timber",
+      "translation": "Безупречный пиломатериал"
+    },
+    {
+      "index": "5210",
+      "source": "Jakyl",
+      "translation": "Шакал"
+    },
+    {
+      "index": "5211",
+      "source": "Jungle Terrorbird",
+      "translation": "Лесная птица-ужаса"
+    },
+    {
+      "index": "5216",
+      "source": "Luminite Ore Chunk",
+      "translation": "Глыба люминитовой руды"
+    },
+    {
+      "index": "5265",
+      "source": "Ornate Brick Slab",
+      "translation": "Витиеватая кирпичная плита"
+    },
+    {
+      "index": "5269",
+      "source": "Ornate Cloth Tarp",
+      "translation": "Витиеватый тканевый тент"
+    },
+    {
+      "index": "5278",
+      "source": "Ornate Leather Sheeting",
+      "translation": "Витиеватая кожаная обшивка"
+    },
+    {
+      "index": "5288",
+      "source": "Ornate Stone Chunk",
+      "translation": "Витиеватый каменный обломок"
+    },
+    {
+      "index": "5290",
+      "source": "Ornate Timber",
+      "translation": "Витиеватый пиломатериал"
+    },
+    {
+      "index": "5291",
+      "source": "Ornate Trunk",
+      "translation": "Витиеватый ствол"
+    },
+    {
+      "index": "5298",
+      "source": "Peerless Brick Slab",
+      "translation": "Бесподобная кирпичная плита"
+    },
+    {
+      "index": "5302",
+      "source": "Peerless Cloth Tarp",
+      "translation": "Бесподобный тканевый тент"
+    },
+    {
+      "index": "5312",
+      "source": "Peerless Leather Sheeting",
+      "translation": "Бесподобная кожаная обшивка"
+    },
+    {
+      "index": "5323",
+      "source": "Peerless Timber",
+      "translation": "Бесподобный пиломатериал"
+    },
+    {
+      "index": "5324",
+      "source": "Peerless Trunk",
+      "translation": "Бесподобный ствол"
+    },
+    {
+      "index": "5332",
+      "source": "Pristine Brick Slab",
+      "translation": "Нетронутая кирпичная плита"
+    },
+    {
+      "index": "5345",
+      "source": "Pristine Leather Sheeting",
+      "translation": "Нетронутая кожаная обшивка"
+    },
+    {
+      "index": "5355",
+      "source": "Pristine Stone Chunk",
+      "translation": "Нетронутый каменный обломок"
+    },
+    {
+      "index": "5357",
+      "source": "Pristine Timber",
+      "translation": "Нетронутый пиломатериал"
+    },
+    {
+      "index": "5358",
+      "source": "Pristine Trunk",
+      "translation": "Нетронутый ствол"
+    },
+    {
+      "index": "5364",
+      "source": "Pyrelite Ore Chunk",
+      "translation": "Глыба пирелитовой руды"
+    },
+    {
+      "index": "5370",
+      "source": "Rathium Ore Chunk",
+      "translation": "Глыба ратиевой руды"
+    },
+    {
+      "index": "5437",
+      "source": "Rough Cloth Tarp",
+      "translation": "Грубый тканевый тент"
+    },
+    {
+      "index": "5455",
+      "source": "Rough Timber",
+      "translation": "Грубый пиломатериал"
+    },
+    {
+      "index": "5458",
+      "source": "Rough Wood Trunk",
+      "translation": "Грубый ствол"
+    },
+    {
+      "index": "5472",
+      "source": "Simple Cloth Tarp",
+      "translation": "Простой тканевый тент"
+    },
+    {
+      "index": "5491",
+      "source": "Simple Stone Chunk",
+      "translation": "Простой каменный обломок"
+    },
+    {
+      "index": "5493",
+      "source": "Simple Timber",
+      "translation": "Простой пиломатериал"
+    },
+    {
+      "index": "5496",
+      "source": "Simple Wood Trunk",
+      "translation": "Простой ствол"
+    },
+    {
+      "index": "5505",
+      "source": "Sturdy Cloth Tarp",
+      "translation": "Прочный тканевый тент"
+    },
+    {
+      "index": "5519",
+      "source": "Sturdy Timber",
+      "translation": "Прочный пиломатериал"
+    },
+    {
+      "index": "5522",
+      "source": "Sturdy Wood Trunk",
+      "translation": "Прочный ствол"
+    },
+    {
+      "index": "5532",
+      "source": "Umbracite Ore Chunk",
+      "translation": "Глыба умбрацитовой руды"
+    },
+    {
+      "index": "5534",
+      "source": "Umbura",
+      "translation": "Умбра"
+    },
+    {
+      "index": "8101",
+      "source": "Alpha Umbura",
+      "translation": "Альфа-Умбра"
+    },
+    {
+      "index": "8103",
+      "source": "Araknir Nest",
+      "translation": "Гнездо пауков"
+    },
+    {
+      "index": "8107",
+      "source": "Cave Skitch",
+      "translation": "Пещерный краб"
+    },
+    {
+      "index": "8111",
+      "source": "Drone",
+      "translation": "Пчела"
+    },
+    {
+      "index": "8116",
+      "source": "Giant Skitch",
+      "translation": "Гигантский краб"
+    },
+    {
+      "index": "8119",
+      "source": "King Jakyl",
+      "translation": "Королевский Шакал"
+    },
+    {
+      "index": "8121",
+      "source": "King Umbura",
+      "translation": "Король Умбра"
+    },
+    {
+      "index": "8123",
+      "source": "Massive Araknir",
+      "translation": "Паук"
+    },
+    {
+      "index": "8128",
+      "source": "Queen",
+      "translation": "Пчеломатка"
+    },
+    {
+      "index": "8129",
+      "source": "Skitch",
+      "translation": "Краб"
+    },
+    {
+      "index": "8130",
+      "source": "Small Araknir",
+      "translation": "Паучок"
+    },
+    {
+      "index": "8132",
+      "source": "Soldier",
+      "translation": "Пчела-воин"
+    },
+    {
+      "index": "8133",
+      "source": "Subterranean Jakyl",
+      "translation": "Подземный Шакал"
+    },
+    {
+      "index": "8135",
+      "source": "Subterranean Jakyl Protector",
+      "translation": "Подземный Шакал-защитник"
+    },
+    {
+      "index": "8137",
+      "source": "Subterranean Skitch",
+      "translation": "Подземный Краб"
+    },
+    {
+      "index": "8138",
+      "source": "Swamp Terratoad",
+      "translation": "Болотная жаба"
+    },
+    {
+      "index": "8283",
+      "source": "An ancient component that could be repaired and sold to Heimlich.",
+      "translation": "Древний компонент, который можно отремонтировать и продать Хеймлиху."
+    },
+    {
+      "index": "8318",
+      "source": "An ancient component that could be used to make construction materials to sell to Heimlich.",
+      "translation": "Древний компонент, который можно использовать для изготовления строительных материалов на продажу Хеймлиху."
+    },
+    {
+      "index": "8442",
+      "source": "Astralite Ore Concentrate",
+      "translation": "Крошка астралитовой руды"
+    },
+    {
+      "index": "8505",
+      "source": "Aurumite Ore Concentrate",
+      "translation": "Крошка аурумитовой руды"
+    },
+    {
+      "index": "8506",
+      "source": "Aurumite Ore Piece",
+      "translation": "Кусок аурумитовой руды"
+    },
+    {
+      "index": "8532",
+      "source": "Basic Amber Resin",
+      "translation": "Грубая янтарная смола"
+    },
+    {
+      "index": "8555",
+      "source": "Basic Clay Lump",
+      "translation": "Грубый комок глины"
+    },
+    {
+      "index": "8563",
+      "source": "Basic Embergrain",
+      "translation": "Грубая пшеница"
+    },
+    {
+      "index": "8588",
+      "source": "Basic Fish Oil",
+      "translation": "Грубый рыбий жир"
+    },
+    {
+      "index": "8623",
+      "source": "Basic Raw Meat",
+      "translation": "Грубое сырое мясо"
+    },
+    {
+      "index": "8626",
+      "source": "Basic Sand",
+      "translation": "Грубый песок"
+    },
+    {
+      "index": "8645",
+      "source": "Basic Wispweave Plant",
+      "translation": "Грубая шепоткань"
+    },
+    {
+      "index": "8651",
+      "source": "Basic Wispweave Seeds",
+      "translation": "Грубые семена шепоткани"
+    },
+    {
+      "index": "8769",
+      "source": "Celestium Ore Concentrate",
+      "translation": "Крошка целестиевой руды"
+    },
+    {
+      "index": "8939",
+      "source": "Crushed Fine Shells",
+      "translation": "Дроблёные хорошие раковины"
+    },
+    {
+      "index": "8944",
+      "source": "Crushed Ornate Shells",
+      "translation": "Дроблёные витиеватые раковины"
+    },
+    {
+      "index": "8945",
+      "source": "Crushed Peerless Shells",
+      "translation": "Дроблёные бесподобные раковины"
+    },
+    {
+      "index": "8950",
+      "source": "Crushed Pristine Shells",
+      "translation": "Дроблёные нетронутые раковины"
+    },
+    {
+      "index": "8955",
+      "source": "Crushed Rough Shells",
+      "translation": "Дроблёные грубые раковины"
+    },
+    {
+      "index": "8956",
+      "source": "Crushed Simple Shells",
+      "translation": "Дроблёные простые раковины"
+    },
+    {
+      "index": "8957",
+      "source": "Crushed Sturdy Shells",
+      "translation": "Дроблёные прочные раковины"
+    },
+    {
+      "index": "8965",
+      "source": "A badly damaged ancient component. Heimlich would be interested in this if you could find a way to repair it.",
+      "translation": "Сильно повреждённый древний компонент. Хеймлиху было бы это интересно, если ты сможешь найти способ его починить."
+    },
+    {
+      "index": "9453",
+      "source": "Elenvar Ore Concentrate",
+      "translation": "Крошка эленваровой руды"
+    },
+    {
+      "index": "9500",
+      "source": "Emarium Ore Concentrate",
+      "translation": "Крошка эмариевой руды"
+    },
+    {
+      "index": "9666",
+      "source": "Exquisite Clay Lump",
+      "translation": "Изысканный комок глины"
+    },
+    {
+      "index": "9677",
+      "source": "Exquisite Cloth Strip",
+      "translation": "Изысканная полоска ткани"
+    },
+    {
+      "index": "9692",
+      "source": "Exquisite Dried Pelt",
+      "translation": "Изысканная высушенная шкура"
+    },
+    {
+      "index": "9695",
+      "source": "Exquisite Embergrain",
+      "translation": "Изысканная пшеница"
+    },
+    {
+      "index": "9741",
+      "source": "Exquisite Large Leather Output",
+      "translation": "Изысканный большой кусок кожи (результат)"
+    },
+    {
+      "index": "9752",
+      "source": "Exquisite Leather Output",
+      "translation": "Изысканная кожа (результат)"
+    },
+    {
+      "index": "9756",
+      "source": "Exquisite Leather Straps",
+      "translation": "Изысканные кожаные ремни"
+    },
+    {
+      "index": "9761",
+      "source": "Exquisite Medium Leather Output",
+      "translation": "Изысканный средний кусок кожи (результат)"
+    },
+    {
+      "index": "9777",
+      "source": "Exquisite Plank Output",
+      "translation": "Изысканная доска (результат)"
+    },
+    {
+      "index": "9788",
+      "source": "A repaired component using crafted materials. Heimlich would be interested in this.",
+      "translation": "Отремонтированный компонент, восстановленный с использованием созданных материалов. Хеймлих заинтересуется этим."
+    },
+    {
+      "index": "9811",
+      "source": "Exquisite Spool Of Thread",
+      "translation": "Катушка изысканных ниток"
+    },
+    {
+      "index": "9824",
+      "source": "Exquisite Stripped Wood",
+      "translation": "Изысканная древесина без коры"
+    },
+    {
+      "index": "9827",
+      "source": "Exquisite Tanned Pelt",
+      "translation": "Изысканная дублёная шкура"
+    },
+    {
+      "index": "9839",
+      "source": "Exquisite Tree Bark",
+      "translation": "Изысканная древесная кора"
+    },
+    {
+      "index": "9842",
+      "source": "Exquisite Tree Bark Output",
+      "translation": "Изысканная древесная кора (результат)"
+    },
+    {
+      "index": "9857",
+      "source": "Exquisite Wispweave Filament",
+      "translation": "Изысканная нить шепоткани"
+    },
+    {
+      "index": "9860",
+      "source": "Exquisite Wispweave Plant",
+      "translation": "Изысканная шепоткань"
+    },
+    {
+      "index": "9862",
+      "source": "Exquisite Wispweave Seeds",
+      "translation": "Изысканные семена шепоткани"
+    },
+    {
+      "index": "9866",
+      "source": "Exquisite Wood Log Output",
+      "translation": "Изысканное бревно (результат)"
+    },
+    {
+      "index": "9906",
+      "source": "Ferralith Ore Concentrate",
+      "translation": "Крошка ферралитовой руды"
+    },
+    {
+      "index": "9927",
+      "source": "Fine Amber Resin",
+      "translation": "Хорошая янтарная смола"
+    },
+    {
+      "index": "9928",
+      "source": "Fine Animal Hair",
+      "translation": "Хорошая звериная шерсть"
+    },
+    {
+      "index": "9940",
+      "source": "Fine Brick",
+      "translation": "Хороший кирпич"
+    },
+    {
+      "index": "9943",
+      "source": "Fine Charcoal",
+      "translation": "Хороший древесный уголь"
+    },
+    {
+      "index": "9948",
+      "source": "Fine Clay Lump",
+      "translation": "Хороший комок глины"
+    },
+    {
+      "index": "9949",
+      "source": "Fine Cleaned Pelt",
+      "translation": "Хорошая очищенная шкура"
+    },
+    {
+      "index": "9950",
+      "source": "Fine Cloth",
+      "translation": "Хорошая ткань"
+    },
+    {
+      "index": "9952",
+      "source": "Fine Cloth Output",
+      "translation": "Хорошая ткань (результат)"
+    },
+    {
+      "index": "9953",
+      "source": "Fine Cloth Strip",
+      "translation": "Хорошая полоска ткани"
+    },
+    {
+      "index": "9968",
+      "source": "Fine Dried Pelt",
+      "translation": "Хорошая высушенная шкура"
+    },
+    {
+      "index": "9969",
+      "source": "Fine Embergrain",
+      "translation": "Хорошая пшеница"
+    },
+    {
+      "index": "9983",
+      "source": "Fine Fish Oil",
+      "translation": "Хороший рыбий жир"
+    },
+    {
+      "index": "9992",
+      "source": "Fine Glass",
+      "translation": "Хорошее стекло"
+    },
+    {
+      "index": "10000",
+      "source": "Fine Large Leather Output",
+      "translation": "Хороший большой кусок кожи (результат)"
+    },
+    {
+      "index": "10001",
+      "source": "Fine Leather",
+      "translation": "Хорошая кожа"
+    },
+    {
+      "index": "10007",
+      "source": "Fine Leather Output",
+      "translation": "Хорошая кожа (результат)"
+    },
+    {
+      "index": "10010",
+      "source": "Fine Leather Straps",
+      "translation": "Хорошие кожаные ремни"
+    },
+    {
+      "index": "10016",
+      "source": "Fine Medium Leather Output",
+      "translation": "Хороший средний кусок кожи (результат)"
+    },
+    {
+      "index": "10024",
+      "source": "Fine Parchment",
+      "translation": "Хороший пергамент"
+    },
+    {
+      "index": "10028",
+      "source": "Fine Plank",
+      "translation": "Хорошая доска"
+    },
+    {
+      "index": "10029",
+      "source": "Fine Plank Output",
+      "translation": "Хорошая доска (результат)"
+    },
+    {
+      "index": "10030",
+      "source": "Fine Plant Fiber",
+      "translation": "Хорошее растительное волокно"
+    },
+    {
+      "index": "10034",
+      "source": "Fine Raw Meat",
+      "translation": "Хорошее сырое мясо"
+    },
+    {
+      "index": "10035",
+      "source": "Fine Raw Pelt",
+      "translation": "Хорошая сырая шкура"
+    },
+    {
+      "index": "10045",
+      "source": "Fine Rock",
+      "translation": "Хороший камень"
+    },
+    {
+      "index": "10046",
+      "source": "Fine Rope",
+      "translation": "Хорошая верёвка"
+    },
+    {
+      "index": "10050",
+      "source": "Fine Sand",
+      "translation": "Хороший песок"
+    },
+    {
+      "index": "10054",
+      "source": "Fine Shell",
+      "translation": "Хорошая раковина"
+    },
+    {
+      "index": "10056",
+      "source": "Fine Spool Of Thread",
+      "translation": "Катушка хороших ниток"
+    },
+    {
+      "index": "10063",
+      "source": "Fine Straw",
+      "translation": "Хорошая солома"
+    },
+    {
+      "index": "10064",
+      "source": "Fine Stripped Wood",
+      "translation": "Хорошая древесина без коры"
+    },
+    {
+      "index": "10065",
+      "source": "Fine Tanned Pelt",
+      "translation": "Хорошая дублёная шкура"
+    },
+    {
+      "index": "10067",
+      "source": "Fine Textile",
+      "translation": "Хороший текстиль"
+    },
+    {
+      "index": "10070",
+      "source": "Fine Tree Bark",
+      "translation": "Хорошая древесная кора"
+    },
+    {
+      "index": "10071",
+      "source": "Fine Tree Bark Output",
+      "translation": "Хорошая древесная кора (результат)"
+    },
+    {
+      "index": "10078",
+      "source": "Fine Wispweave Filament",
+      "translation": "Хорошая нить шепоткани"
+    },
+    {
+      "index": "10079",
+      "source": "Fine Wispweave Plant",
+      "translation": "Хорошая шепоткань"
+    },
+    {
+      "index": "10081",
+      "source": "Fine Wispweave Seeds",
+      "translation": "Хорошие семена шепоткани"
+    },
+    {
+      "index": "10082",
+      "source": "Fine Wood Log",
+      "translation": "Хорошее бревно"
+    },
+    {
+      "index": "10083",
+      "source": "Fine Wood Log Output",
+      "translation": "Хорошее бревно (результат)"
+    },
+    {
+      "index": "10134",
+      "source": "Flawless Cleaned Pelt",
+      "translation": "Безупречная очищенная шкура"
+    },
+    {
+      "index": "10146",
+      "source": "Flawless Embergrain",
+      "translation": "Безупречная пшеница"
+    },
+    {
+      "index": "10216",
+      "source": "Flawless Spool Of Thread",
+      "translation": "Катушка безупречных ниток"
+    },
+    {
+      "index": "10226",
+      "source": "Flawless Stripped Wood",
+      "translation": "Безупречная древесина без коры"
+    },
+    {
+      "index": "10233",
+      "source": "Flawless Tree Bark Output",
+      "translation": "Безупречная древесная кора (результат)"
+    },
+    {
+      "index": "10237",
+      "source": "Flawless Wispweave Filament",
+      "translation": "Безупречная нить шепоткани"
+    },
+    {
+      "index": "10238",
+      "source": "Flawless Wispweave Plant",
+      "translation": "Безупречная шепоткань"
+    },
+    {
+      "index": "10240",
+      "source": "Flawless Wispweave Seeds",
+      "translation": "Безупречные семена шепоткани"
+    },
+    {
+      "index": "10242",
+      "source": "Flawless Wood Log Output",
+      "translation": "Безупречное бревно (результат)"
+    },
+    {
+      "index": "10354",
+      "source": "Heimlich Business Voucher",
+      "translation": "Ваучер на предприятие Хеймлиха"
+    },
+    {
+      "index": "10355",
+      "source": "This voucher can be used to construct a building that Heimlich would operate out of in your settlement.",
+      "translation": "Этот ваучер можно использовать для строительства здания, из которого Хеймлих будет вести дела в вашем поселении."
+    },
+    {
+      "index": "10375",
+      "source": "High Quality Exquisite Cloth",
+      "translation": "Изысканная ткань высокого качества"
+    },
+    {
+      "index": "10376",
+      "source": "High Quality Exquisite Leather",
+      "translation": "Изысканная кожа высокого качества"
+    },
+    {
+      "index": "10378",
+      "source": "High Quality Exquisite Plank",
+      "translation": "Изысканная доска высокого качества"
+    },
+    {
+      "index": "10381",
+      "source": "High Quality Fine Cloth",
+      "translation": "Хорошая ткань высокого качества"
+    },
+    {
+      "index": "10382",
+      "source": "High Quality Fine Leather",
+      "translation": "Хорошая кожа высокого качества"
+    },
+    {
+      "index": "10383",
+      "source": "High Quality Fine Plank",
+      "translation": "Хорошая доска высокого качества"
+    },
+    {
+      "index": "10385",
+      "source": "High Quality Peerless Cloth",
+      "translation": "Бесподобная ткань высокого качества"
+    },
+    {
+      "index": "10386",
+      "source": "High Quality Peerless Leather",
+      "translation": "Бесподобная кожа высокого качества"
+    },
+    {
+      "index": "10387",
+      "source": "High Quality Peerless Plank",
+      "translation": "Бесподобная доска высокого качества"
+    },
+    {
+      "index": "10390",
+      "source": "High Quality Rough Cloth",
+      "translation": "Грубая ткань высокого качества"
+    },
+    {
+      "index": "10392",
+      "source": "High Quality Rough Plank",
+      "translation": "Грубая доска высокого качества"
+    },
+    {
+      "index": "10395",
+      "source": "High Quality Simple Plank",
+      "translation": "Простая доска высокого качества"
+    },
+    {
+      "index": "10397",
+      "source": "High Quality Sturdy Leather",
+      "translation": "Прочная кожа высокого качества"
+    },
+    {
+      "index": "10409",
+      "source": "Infused Amber Resin",
+      "translation": "Прочная янтарная смола"
+    },
+    {
+      "index": "10419",
+      "source": "Infused Clay Lump",
+      "translation": "Прочный комок глины"
+    },
+    {
+      "index": "10422",
+      "source": "Infused Embergrain",
+      "translation": "Прочная пшеница"
+    },
+    {
+      "index": "10431",
+      "source": "Infused Fish Oil",
+      "translation": "Прочный рыбий жир"
+    },
+    {
+      "index": "10445",
+      "source": "Infused Raw Meat",
+      "translation": "Прочное сырое мясо"
+    },
+    {
+      "index": "10446",
+      "source": "Infused Sand",
+      "translation": "Прочный песок"
+    },
+    {
+      "index": "10453",
+      "source": "Infused Wispweave Plant",
+      "translation": "Прочная шепоткань"
+    },
+    {
+      "index": "10455",
+      "source": "Infused Wispweave Seeds",
+      "translation": "Прочные семена шепоткани"
+    },
+    {
+      "index": "10517",
+      "source": "Luminite Ore Concentrate",
+      "translation": "Крошка люминитовой руды"
+    },
+    {
+      "index": "10684",
+      "source": "Mark of Heimlich",
+      "translation": "Знак Хеймлиха"
+    },
+    {
+      "index": "10766",
+      "source": "Ornate Amber Resin",
+      "translation": "Витиеватая янтарная смола"
+    },
+    {
+      "index": "10767",
+      "source": "Ornate Animal Hair",
+      "translation": "Витиеватая звериная шерсть"
+    },
+    {
+      "index": "10776",
+      "source": "Ornate Brick",
+      "translation": "Витиеватый кирпич"
+    },
+    {
+      "index": "10778",
+      "source": "Ornate Charcoal",
+      "translation": "Витиеватый древесный уголь"
+    },
+    {
+      "index": "10782",
+      "source": "Ornate Clay Lump",
+      "translation": "Витиеватый комок глины"
+    },
+    {
+      "index": "10783",
+      "source": "Ornate Cleaned Pelt",
+      "translation": "Витиеватая очищенная шкура"
+    },
+    {
+      "index": "10784",
+      "source": "Ornate Cloth",
+      "translation": "Витиеватая ткань"
+    },
+    {
+      "index": "10787",
+      "source": "Ornate Cloth Strip",
+      "translation": "Витиеватая полоска ткани"
+    },
+    {
+      "index": "10795",
+      "source": "Ornate Embergrain",
+      "translation": "Витиеватая пшеница"
+    },
+    {
+      "index": "10807",
+      "source": "Ornate Fish Oil",
+      "translation": "Витиеватый рыбий жир"
+    },
+    {
+      "index": "10815",
+      "source": "Ornate Glass",
+      "translation": "Витиеватое стекло"
+    },
+    {
+      "index": "10823",
+      "source": "Ornate Leather",
+      "translation": "Витиеватая кожа"
+    },
+    {
+      "index": "10839",
+      "source": "Ornate Parchment",
+      "translation": "Витиеватый пергамент"
+    },
+    {
+      "index": "10843",
+      "source": "Ornate Plank",
+      "translation": "Витиеватая доска"
+    },
+    {
+      "index": "10844",
+      "source": "Ornate Plant Fiber",
+      "translation": "Витиеватое растительное волокно"
+    },
+    {
+      "index": "10846",
+      "source": "Ornate Raw Meat",
+      "translation": "Витиеватое сырое мясо"
+    },
+    {
+      "index": "10847",
+      "source": "Ornate Raw Pelt",
+      "translation": "Витиеватая сырая шкура"
+    },
+    {
+      "index": "10848",
+      "source": "Ornate Rock",
+      "translation": "Витиеватый камень"
+    },
+    {
+      "index": "10849",
+      "source": "Ornate Rope",
+      "translation": "Витиеватая верёвка"
+    },
+    {
+      "index": "10853",
+      "source": "Ornate Sand",
+      "translation": "Витиеватый песок"
+    },
+    {
+      "index": "10857",
+      "source": "Ornate Shell",
+      "translation": "Витиеватая раковина"
+    },
+    {
+      "index": "10858",
+      "source": "Ornate Spool Of Thread",
+      "translation": "Катушка витиеватых ниток"
+    },
+    {
+      "index": "10867",
+      "source": "Ornate Straw",
+      "translation": "Витиеватая солома"
+    },
+    {
+      "index": "10868",
+      "source": "Ornate Stripped Wood",
+      "translation": "Витиеватая древесина без коры"
+    },
+    {
+      "index": "10870",
+      "source": "Ornate Tanned Pelt",
+      "translation": "Витиеватая дублёная шкура"
+    },
+    {
+      "index": "10872",
+      "source": "Ornate Textile",
+      "translation": "Витиеватый текстиль"
+    },
+    {
+      "index": "10874",
+      "source": "Ornate Tree Bark",
+      "translation": "Витиеватая древесная кора"
+    },
+    {
+      "index": "10875",
+      "source": "Ornate Tree Bark Output",
+      "translation": "Витиеватая древесная кора (результат)"
+    },
+    {
+      "index": "10879",
+      "source": "Ornate Wispweave Filament",
+      "translation": "Витиеватая нить шепоткани"
+    },
+    {
+      "index": "10880",
+      "source": "Ornate Wispweave Plant",
+      "translation": "Витиеватая шепоткань"
+    },
+    {
+      "index": "10882",
+      "source": "Ornate Wispweave Seeds",
+      "translation": "Витиеватые семена шепоткани"
+    },
+    {
+      "index": "10883",
+      "source": "Ornate Wood Log",
+      "translation": "Витиеватое бревно"
+    },
+    {
+      "index": "10884",
+      "source": "Ornate Wood Log Output",
+      "translation": "Витиеватое бревно (результат)"
+    },
+    {
+      "index": "10917",
+      "source": "Peerless Animal Hair",
+      "translation": "Бесподобная звериная шерсть"
+    },
+    {
+      "index": "10927",
+      "source": "Peerless Brick",
+      "translation": "Бесподобный кирпич"
+    },
+    {
+      "index": "10933",
+      "source": "Peerless Clay Lump",
+      "translation": "Бесподобный комок глины"
+    },
+    {
+      "index": "10934",
+      "source": "Peerless Cleaned Pelt",
+      "translation": "Бесподобная очищенная шкура"
+    },
+    {
+      "index": "10935",
+      "source": "Peerless Cloth",
+      "translation": "Бесподобная ткань"
+    },
+    {
+      "index": "10937",
+      "source": "Peerless Cloth Output",
+      "translation": "Бесподобная ткань (результат)"
+    },
+    {
+      "index": "10946",
+      "source": "Peerless Embergrain",
+      "translation": "Бесподобная пшеница"
+    },
+    {
+      "index": "10968",
+      "source": "Peerless Glass",
+      "translation": "Бесподобное стекло"
+    },
+    {
+      "index": "10974",
+      "source": "Peerless Large Leather Output",
+      "translation": "Бесподобный большой кусок кожи (результат)"
+    },
+    {
+      "index": "10981",
+      "source": "Peerless Leather Output",
+      "translation": "Бесподобная кожа (результат)"
+    },
+    {
+      "index": "10984",
+      "source": "Peerless Leather Straps",
+      "translation": "Бесподобные кожаные ремни"
+    },
+    {
+      "index": "10987",
+      "source": "Peerless Medium Leather Output",
+      "translation": "Бесподобный средний кусок кожи (результат)"
+    },
+    {
+      "index": "10997",
+      "source": "Peerless Plank Output",
+      "translation": "Бесподобная доска (результат)"
+    },
+    {
+      "index": "11001",
+      "source": "Peerless Raw Pelt",
+      "translation": "Бесподобная сырая шкура"
+    },
+    {
+      "index": "11008",
+      "source": "Peerless Rock",
+      "translation": "Бесподобный камень"
+    },
+    {
+      "index": "11009",
+      "source": "Peerless Rope",
+      "translation": "Бесподобная верёвка"
+    },
+    {
+      "index": "11017",
+      "source": "Peerless Shell",
+      "translation": "Бесподобная раковина"
+    },
+    {
+      "index": "11018",
+      "source": "Peerless Spool Of Thread",
+      "translation": "Катушка бесподобных ниток"
+    },
+    {
+      "index": "11026",
+      "source": "Peerless Stripped Wood",
+      "translation": "Бесподобная древесина без коры"
+    },
+    {
+      "index": "11029",
+      "source": "Peerless Textile",
+      "translation": "Бесподобный текстиль"
+    },
+    {
+      "index": "11032",
+      "source": "Peerless Tree Bark",
+      "translation": "Бесподобная древесная кора"
+    },
+    {
+      "index": "11033",
+      "source": "Peerless Tree Bark Output",
+      "translation": "Бесподобная древесная кора (результат)"
+    },
+    {
+      "index": "11040",
+      "source": "Peerless Wispweave Filament",
+      "translation": "Бесподобная нить шепоткани"
+    },
+    {
+      "index": "11041",
+      "source": "Peerless Wispweave Plant",
+      "translation": "Бесподобная шепоткань"
+    },
+    {
+      "index": "11043",
+      "source": "Peerless Wispweave Seeds",
+      "translation": "Бесподобные семена шепоткани"
+    },
+    {
+      "index": "11045",
+      "source": "Peerless Wood Log Output",
+      "translation": "Бесподобное бревно (результат)"
+    },
+    {
+      "index": "11109",
+      "source": "Pristine Amber Resin",
+      "translation": "Нетронутая янтарная смола"
+    },
+    {
+      "index": "11110",
+      "source": "Pristine Animal Hair",
+      "translation": "Нетронутая звериная шерсть"
+    },
+    {
+      "index": "11119",
+      "source": "Pristine Brick",
+      "translation": "Нетронутый кирпич"
+    },
+    {
+      "index": "11121",
+      "source": "Pristine Charcoal",
+      "translation": "Нетронутый древесный уголь"
+    },
+    {
+      "index": "11125",
+      "source": "Pristine Clay Lump",
+      "translation": "Нетронутый комок глины"
+    },
+    {
+      "index": "11126",
+      "source": "Pristine Cleaned Pelt",
+      "translation": "Нетронутая очищенная шкура"
+    },
+    {
+      "index": "11127",
+      "source": "Pristine Cloth",
+      "translation": "Нетронутая ткань"
+    },
+    {
+      "index": "11130",
+      "source": "Pristine Cloth Strip",
+      "translation": "Нетронутая полоска ткани"
+    },
+    {
+      "index": "11138",
+      "source": "Pristine Embergrain",
+      "translation": "Нетронутая пшеница"
+    },
+    {
+      "index": "11150",
+      "source": "Pristine Fish Oil",
+      "translation": "Нетронутый рыбий жир"
+    },
+    {
+      "index": "11158",
+      "source": "Pristine Glass",
+      "translation": "Нетронутое стекло"
+    },
+    {
+      "index": "11165",
+      "source": "Pristine Leather",
+      "translation": "Нетронутая кожа"
+    },
+    {
+      "index": "11181",
+      "source": "Pristine Parchment",
+      "translation": "Нетронутый пергамент"
+    },
+    {
+      "index": "11185",
+      "source": "Pristine Plank",
+      "translation": "Нетронутая доска"
+    },
+    {
+      "index": "11186",
+      "source": "Pristine Plant Fiber",
+      "translation": "Нетронутое растительное волокно"
+    },
+    {
+      "index": "11188",
+      "source": "Pristine Raw Meat",
+      "translation": "Нетронутое сырое мясо"
+    },
+    {
+      "index": "11189",
+      "source": "Pristine Raw Pelt",
+      "translation": "Нетронутая сырая шкура"
+    },
+    {
+      "index": "11191",
+      "source": "Pristine Rope",
+      "translation": "Нетронутая верёвка"
+    },
+    {
+      "index": "11195",
+      "source": "Pristine Sand",
+      "translation": "Нетронутый песок"
+    },
+    {
+      "index": "11199",
+      "source": "Pristine Shell",
+      "translation": "Нетронутая раковина"
+    },
+    {
+      "index": "11200",
+      "source": "Pristine Spool Of Thread",
+      "translation": "Катушка нетронутых ниток"
+    },
+    {
+      "index": "11209",
+      "source": "Pristine Straw",
+      "translation": "Нетронутая солома"
+    },
+    {
+      "index": "11210",
+      "source": "Pristine Stripped Wood",
+      "translation": "Нетронутая древесина без коры"
+    },
+    {
+      "index": "11212",
+      "source": "Pristine Tanned Pelt",
+      "translation": "Нетронутая дублёная шкура"
+    },
+    {
+      "index": "11214",
+      "source": "Pristine Textile",
+      "translation": "Нетронутый текстиль"
+    },
+    {
+      "index": "11216",
+      "source": "Pristine Tree Bark",
+      "translation": "Нетронутая древесная кора"
+    },
+    {
+      "index": "11217",
+      "source": "Pristine Tree Bark Output",
+      "translation": "Нетронутая древесная кора (результат)"
+    },
+    {
+      "index": "11221",
+      "source": "Pristine Wispweave Filament",
+      "translation": "Нетронутая нить шепоткани"
+    },
+    {
+      "index": "11222",
+      "source": "Pristine Wispweave Plant",
+      "translation": "Нетронутая шепоткань"
+    },
+    {
+      "index": "11224",
+      "source": "Pristine Wispweave Seeds",
+      "translation": "Нетронутые семена шепоткани"
+    },
+    {
+      "index": "11225",
+      "source": "Pristine Wood Log",
+      "translation": "Нетронутое бревно"
+    },
+    {
+      "index": "11226",
+      "source": "Pristine Wood Log Output",
+      "translation": "Нетронутое бревно (результат)"
+    },
+    {
+      "index": "11285",
+      "source": "Pyrelite Ore Concentrate",
+      "translation": "Крошка пирелитовой руды"
+    },
+    {
+      "index": "11344",
+      "source": "Rathium Ore Concentrate",
+      "translation": "Крошка ратиевой руды"
+    },
+    {
+      "index": "11345",
+      "source": "Rathium Ore Piece",
+      "translation": "Кусок ратиевой руды"
+    },
+    {
+      "index": "11364",
+      "source": "Raw Skitch Meat",
+      "translation": "Сырое мясо краба"
+    },
+    {
+      "index": "11655",
+      "source": "Refined Exquisite Brick",
+      "translation": "Обработанный изысканный кирпич"
+    },
+    {
+      "index": "11658",
+      "source": "Refined Exquisite Cloth",
+      "translation": "Обработанная изысканная ткань"
+    },
+    {
+      "index": "11661",
+      "source": "Refined Exquisite Leather",
+      "translation": "Обработанная изысканная кожа"
+    },
+    {
+      "index": "11663",
+      "source": "Refined Exquisite Plank",
+      "translation": "Обработанная изысканная доска"
+    },
+    {
+      "index": "11666",
+      "source": "Refined Fine Brick",
+      "translation": "Обработанный хороший кирпич"
+    },
+    {
+      "index": "11667",
+      "source": "Refined Fine Cloth",
+      "translation": "Обработанная хорошая ткань"
+    },
+    {
+      "index": "11668",
+      "source": "Refined Fine Leather",
+      "translation": "Обработанная хорошая кожа"
+    },
+    {
+      "index": "11669",
+      "source": "Refined Fine Plank",
+      "translation": "Обработанная хорошая доска"
+    },
+    {
+      "index": "11670",
+      "source": "Refined Flawless Brick",
+      "translation": "Обработанный безупречный кирпич"
+    },
+    {
+      "index": "11671",
+      "source": "Refined Flawless Cloth",
+      "translation": "Обработанная безупречная ткань"
+    },
+    {
+      "index": "11672",
+      "source": "Refined Flawless Leather",
+      "translation": "Обработанная безупречная кожа"
+    },
+    {
+      "index": "11673",
+      "source": "Refined Flawless Plank",
+      "translation": "Обработанная безупречная доска"
+    },
+    {
+      "index": "11679",
+      "source": "Refined Ornate Brick",
+      "translation": "Обработанный витиеватый кирпич"
+    },
+    {
+      "index": "11680",
+      "source": "Refined Ornate Cloth",
+      "translation": "Обработанная витиеватая ткань"
+    },
+    {
+      "index": "11681",
+      "source": "Refined Ornate Leather",
+      "translation": "Обработанная витиеватая кожа"
+    },
+    {
+      "index": "11682",
+      "source": "Refined Ornate Plank",
+      "translation": "Обработанная витиеватая доска"
+    },
+    {
+      "index": "11683",
+      "source": "Refined Peerless Brick",
+      "translation": "Обработанный бесподобный кирпич"
+    },
+    {
+      "index": "11684",
+      "source": "Refined Peerless Cloth",
+      "translation": "Обработанная бесподобная ткань"
+    },
+    {
+      "index": "11685",
+      "source": "Refined Peerless Leather",
+      "translation": "Обработанная бесподобная кожа"
+    },
+    {
+      "index": "11686",
+      "source": "Refined Peerless Plank",
+      "translation": "Обработанная бесподобная доска"
+    },
+    {
+      "index": "11687",
+      "source": "Refined Pristine Brick",
+      "translation": "Обработанный нетронутый кирпич"
+    },
+    {
+      "index": "11688",
+      "source": "Refined Pristine Cloth",
+      "translation": "Обработанная нетронутая ткань"
+    },
+    {
+      "index": "11689",
+      "source": "Refined Pristine Leather",
+      "translation": "Обработанная нетронутая кожа"
+    },
+    {
+      "index": "11690",
+      "source": "Refined Pristine Plank",
+      "translation": "Обработанная нетронутая доска"
+    },
+    {
+      "index": "11693",
+      "source": "Refined Rough Brick",
+      "translation": "Обработанный грубый кирпич"
+    },
+    {
+      "index": "11694",
+      "source": "Refined Rough Cloth",
+      "translation": "Обработанная грубая ткань"
+    },
+    {
+      "index": "11695",
+      "source": "Refined Rough Leather",
+      "translation": "Обработанная грубая кожа"
+    },
+    {
+      "index": "11697",
+      "source": "Refined Simple Brick",
+      "translation": "Обработанный простой кирпич"
+    },
+    {
+      "index": "11698",
+      "source": "Refined Simple Cloth",
+      "translation": "Обработанная простая ткань"
+    },
+    {
+      "index": "11699",
+      "source": "Refined Simple Leather",
+      "translation": "Обработанная простая кожа"
+    },
+    {
+      "index": "11700",
+      "source": "Refined Simple Plank",
+      "translation": "Обработанная простая доска"
+    },
+    {
+      "index": "11701",
+      "source": "Refined Sturdy Brick",
+      "translation": "Обработанный прочный кирпич"
+    },
+    {
+      "index": "11702",
+      "source": "Refined Sturdy Cloth",
+      "translation": "Обработанная прочная ткань"
+    },
+    {
+      "index": "11703",
+      "source": "Refined Sturdy Leather",
+      "translation": "Обработанная прочная кожа"
+    },
+    {
+      "index": "11704",
+      "source": "Refined Sturdy Plank",
+      "translation": "Обработанная прочная доска"
+    },
+    {
+      "index": "11724",
+      "source": "Rough Charcoal",
+      "translation": "Грубый древесный уголь"
+    },
+    {
+      "index": "11725",
+      "source": "Rough Cleaned Pelt",
+      "translation": "Грубая очищенная шкура"
+    },
+    {
+      "index": "11729",
+      "source": "Rough Cloth Strip",
+      "translation": "Грубая полоска ткани"
+    },
+    {
+      "index": "11735",
+      "source": "Rough Dried Pelt",
+      "translation": "Грубая высушенная шкура"
+    },
+    {
+      "index": "11750",
+      "source": "Rough Large Leather Output",
+      "translation": "Грубый большой кусок кожи (результат)"
+    },
+    {
+      "index": "11757",
+      "source": "Rough Leather Output",
+      "translation": "Грубая кожа (результат)"
+    },
+    {
+      "index": "11760",
+      "source": "Rough Leather Straps",
+      "translation": "Грубые кожаные ремни"
+    },
+    {
+      "index": "11762",
+      "source": "Rough Medium Leather Output",
+      "translation": "Грубый средний кусок кожи (результат)"
+    },
+    {
+      "index": "11767",
+      "source": "Rough Plank Output",
+      "translation": "Грубая доска (результат)"
+    },
+    {
+      "index": "11784",
+      "source": "Rough Shell",
+      "translation": "Грубая раковина"
+    },
+    {
+      "index": "11785",
+      "source": "Rough Spool Of Thread",
+      "translation": "Катушка грубых ниток"
+    },
+    {
+      "index": "11788",
+      "source": "Rough Stripped Wood",
+      "translation": "Грубая древесина без коры"
+    },
+    {
+      "index": "11802",
+      "source": "Rough Wispweave Filament",
+      "translation": "Грубая нить шепоткани"
+    },
+    {
+      "index": "11803",
+      "source": "Rough Wood Log",
+      "translation": "Грубое бревно"
+    },
+    {
+      "index": "11804",
+      "source": "Rough Wood Log Output",
+      "translation": "Грубое бревно (результат)"
+    },
+    {
+      "index": "11853",
+      "source": "Schematic: Heimlich's House",
+      "translation": "Чертёж: Дом Хеймлиха"
+    },
+    {
+      "index": "11854",
+      "source": "Instructions for how to set up a house to Heimlich's liking. Heimlich will take up residence in the house where you can buy and trade with him more conveniently.",
+      "translation": "Инструкции по обустройству дома по вкусу Хеймлиха. Хеймлих поселится в этом доме, и вы сможете удобнее покупать и торговать с ним."
+    },
+    {
+      "index": "11932",
+      "source": "Simple Animal Hair",
+      "translation": "Простая звериная шерсть"
+    },
+    {
+      "index": "11952",
+      "source": "Simple Cloth Output",
+      "translation": "Простая ткань (результат)"
+    },
+    {
+      "index": "11961",
+      "source": "Simple Embergrain",
+      "translation": "Простая пшеница"
+    },
+    {
+      "index": "11974",
+      "source": "Simple Fish Oil",
+      "translation": "Простой рыбий жир"
+    },
+    {
+      "index": "11989",
+      "source": "Simple Large Leather Output",
+      "translation": "Простой большой кусок кожи (результат)"
+    },
+    {
+      "index": "11996",
+      "source": "Simple Leather Output",
+      "translation": "Простая кожа (результат)"
+    },
+    {
+      "index": "11999",
+      "source": "Simple Leather Straps",
+      "translation": "Простые кожаные ремни"
+    },
+    {
+      "index": "12002",
+      "source": "Simple Medium Leather Output",
+      "translation": "Простой средний кусок кожи (результат)"
+    },
+    {
+      "index": "12012",
+      "source": "Simple Plank Output",
+      "translation": "Простая доска (результат)"
+    },
+    {
+      "index": "12033",
+      "source": "Simple Shell",
+      "translation": "Простая раковина"
+    },
+    {
+      "index": "12034",
+      "source": "Simple Spool Of Thread",
+      "translation": "Катушка простых ниток"
+    },
+    {
+      "index": "12042",
+      "source": "Simple Stripped Wood",
+      "translation": "Простая древесина без коры"
+    },
+    {
+      "index": "12056",
+      "source": "Simple Wispweave Filament",
+      "translation": "Простая нить шепоткани"
+    },
+    {
+      "index": "12057",
+      "source": "Simple Wispweave Plant",
+      "translation": "Простая шепоткань"
+    },
+    {
+      "index": "12059",
+      "source": "Simple Wispweave Seeds",
+      "translation": "Простые семена шепоткани"
+    },
+    {
+      "index": "12060",
+      "source": "Simple Wood Log",
+      "translation": "Простое бревно"
+    },
+    {
+      "index": "12061",
+      "source": "Simple Wood Log Output",
+      "translation": "Простое бревно (результат)"
+    },
+    {
+      "index": "12094",
+      "source": "Sturdy Animal Hair",
+      "translation": "Прочная звериная шерсть"
+    },
+    {
+      "index": "12104",
+      "source": "Sturdy Cloth Output",
+      "translation": "Прочная ткань (результат)"
+    },
+    {
+      "index": "12110",
+      "source": "Sturdy Dried Pelt",
+      "translation": "Прочная высушенная шкура"
+    },
+    {
+      "index": "12124",
+      "source": "Sturdy Large Leather Output",
+      "translation": "Прочный большой кусок кожи (результат)"
+    },
+    {
+      "index": "12134",
+      "source": "Sturdy Leather Straps",
+      "translation": "Прочные кожаные ремни"
+    },
+    {
+      "index": "12135",
+      "source": "Sturdy Medium Leather Output",
+      "translation": "Прочный средний кусок кожи (результат)"
+    },
+    {
+      "index": "12139",
+      "source": "Sturdy Plank",
+      "translation": "Прочная доска"
+    },
+    {
+      "index": "12140",
+      "source": "Sturdy Plank Output",
+      "translation": "Прочная доска (результат)"
+    },
+    {
+      "index": "12149",
+      "source": "Sturdy Rock",
+      "translation": "Прочный камень"
+    },
+    {
+      "index": "12158",
+      "source": "Sturdy Spool Of Thread",
+      "translation": "Катушка прочных ниток"
+    },
+    {
+      "index": "12161",
+      "source": "Sturdy Stripped Wood",
+      "translation": "Прочная древесина без коры"
+    },
+    {
+      "index": "12163",
+      "source": "Sturdy Textile",
+      "translation": "Прочный текстиль"
+    },
+    {
+      "index": "12174",
+      "source": "Sturdy Wispweave Filament",
+      "translation": "Прочная нить шепоткани"
+    },
+    {
+      "index": "12175",
+      "source": "Sturdy Wood Log",
+      "translation": "Прочное бревно"
+    },
+    {
+      "index": "12176",
+      "source": "Sturdy Wood Log Output",
+      "translation": "Прочное бревно (результат)"
+    },
+    {
+      "index": "12413",
+      "source": "Umbracite Ore Concentrate",
+      "translation": "Крошка умбрацитовой руды"
+    },
+    {
+      "index": "12483",
+      "source": "Unfired Fine Brick",
+      "translation": "Необожжённый хороший кирпич"
+    },
+    {
+      "index": "12486",
+      "source": "Unfired Ornate Brick",
+      "translation": "Необожжённый витиеватый кирпич"
+    },
+    {
+      "index": "12487",
+      "source": "Unfired Peerless Brick",
+      "translation": "Необожжённый бесподобный кирпич"
+    },
+    {
+      "index": "12488",
+      "source": "Unfired Pristine Brick",
+      "translation": "Необожжённый нетронутый кирпич"
+    },
+    {
+      "index": "13288",
+      "source": "Heimlich has shown you the location of an Ancient Temple that he uncovered.",
+      "translation": "Хеймлих показал вам местоположение Древнего храма, который он обнаружил."
+    },
+    {
+      "index": "13806",
+      "source": "Araknir Eggs",
+      "translation": "Яйца паука"
+    },
+    {
+      "index": "13960",
+      "source": "Jakyl Den",
+      "translation": "Логово шакала"
+    },
+    {
+      "index": "13970",
+      "source": "Large Araknir Spawner",
+      "translation": "Большой рассадник пауков"
+    },
+    {
+      "index": "14159",
+      "source": "Small Araknir Spawner",
+      "translation": "Малый рассадник пауков"
+    },
+    {
+      "index": "14381",
+      "source": "Heimlich wants some Cooked Berries for a new recipe he's working on.",
+      "translation": "Хеймлиху нужны Приготовленные ягоды для нового рецепта, над которым он работает."
+    },
+    {
+      "index": "14382",
+      "source": "Heimlich wants some Mashed Bulbs for a new recipe he's working on.",
+      "translation": "Хеймлиху нужно немного толчёных луковиц для нового рецепта, над которым он работает."
+    },
+    {
+      "index": "14384",
+      "source": "Heimlich wants some Roasted Meat for a new recipe he's working on.",
+      "translation": "Хеймлиху нужно немного Жареного мяса для нового рецепта, над которым он работает."
+    },
+    {
+      "index": "14385",
+      "source": "Heimlich wants some Roasted Ocean Fish for a new recipe he's working on.",
+      "translation": "Хеймлиху нужна Жареная океанская рыба для нового рецепта, над которым он работает."
+    },
+    {
+      "index": "14531",
+      "source": "Magnificent Cloth Tarp",
+      "translation": "Великолепный тканевый тент"
+    },
+    {
+      "index": "14553",
+      "source": "Magnificent Stone Chunk",
+      "translation": "Великолепный каменный обломок"
+    },
+    {
+      "index": "14555",
+      "source": "Magnificent Timber",
+      "translation": "Великолепный пиломатериал"
+    },
+    {
+      "index": "14642",
+      "source": "Crushed Magnificent Shells",
+      "translation": "Дроблёные великолепные раковины"
+    },
+    {
+      "index": "14652",
+      "source": "Magnificent Animal Hair",
+      "translation": "Великолепная звериная шерсть"
+    },
+    {
+      "index": "14666",
+      "source": "Magnificent Clay Lump",
+      "translation": "Великолепный комок глины"
+    },
+    {
+      "index": "14678",
+      "source": "Magnificent Embergrain",
+      "translation": "Великолепная пшеница"
+    },
+    {
+      "index": "14742",
+      "source": "Magnificent Spool Of Thread",
+      "translation": "Катушка великолепных ниток"
+    },
+    {
+      "index": "14751",
+      "source": "Magnificent Stripped Wood",
+      "translation": "Великолепная древесина без коры"
+    },
+    {
+      "index": "14757",
+      "source": "Magnificent Tree Bark Output",
+      "translation": "Великолепная древесная кора (результат)"
+    },
+    {
+      "index": "14760",
+      "source": "Magnificent Wispweave Filament",
+      "translation": "Великолепная нить шепоткани"
+    },
+    {
+      "index": "14761",
+      "source": "Magnificent Wispweave Plant",
+      "translation": "Великолепная шепоткань"
+    },
+    {
+      "index": "14763",
+      "source": "Magnificent Wispweave Seeds",
+      "translation": "Великолепные семена шепоткани"
+    },
+    {
+      "index": "14765",
+      "source": "Magnificent Wood Log Output",
+      "translation": "Великолепное бревно (результат)"
+    },
+    {
+      "index": "14774",
+      "source": "Refined Magnificent Brick",
+      "translation": "Обработанный великолепный кирпич"
+    },
+    {
+      "index": "14775",
+      "source": "Refined Magnificent Cloth",
+      "translation": "Обработанная великолепная ткань"
+    },
+    {
+      "index": "14776",
+      "source": "Refined Magnificent Leather",
+      "translation": "Обработанная великолепная кожа"
+    },
+    {
+      "index": "14777",
+      "source": "Refined Magnificent Plank",
+      "translation": "Обработанная великолепная доска"
+    },
+    {
+      "index": "14848",
+      "source": "Learn the basics of cooking with Heimlich",
+      "translation": "Изучи основы кулинарии вместе с Хеймлихом"
+    },
+    {
+      "index": "15091",
+      "source": "Enraged Alpha Jakyl",
+      "translation": "Разъярённый альфа-шакал"
+    },
+    {
+      "index": "15291",
+      "source": "Alpha Jakyl Puppy Den",
+      "translation": "Логово щенков альфа-шакала"
+    },
+    {
+      "index": "15292",
+      "source": "Baby Jakyl Den",
+      "translation": "Логово детёнышей шакала"
+    },
+    {
+      "index": "15302",
+      "source": "King Jakyl Puppy Den",
+      "translation": "Логово щенков королевского шакала"
+    },
+    {
+      "index": "15303",
+      "source": "King Jakyl Puppy Fur Imprints",
+      "translation": "Следы шерсти щенка королевского шакала"
+    },
+    {
+      "index": "15304",
+      "source": "King Jakyl Puppy Nose Imprints",
+      "translation": "Отпечатки носа щенка королевского шакала"
+    },
+    {
+      "index": "15305",
+      "source": "King Jakyl Puppy Paw Imprints",
+      "translation": "Отпечатки лап щенка королевского шакала"
+    },
+    {
+      "index": "15707",
+      "source": "Abyssal Gladius",
+      "translation": "Абиссальный Гладиус"
+    },
+    {
+      "index": "15717",
+      "source": "Divine Selachii",
+      "translation": "Божественная Селахия"
+    },
+    {
+      "index": "15723",
+      "source": "Mossy Amia",
+      "translation": "Мшистая Амия"
+    },
+    {
+      "index": "15730",
+      "source": "Murky Oxy",
+      "translation": "Мутный Окси"
+    },
+    {
+      "index": "16117",
+      "source": "You've unlocked higher tier tasks that you can now complete for Heimlich. These tasks give more experience and hex coins.",
+      "translation": "Вы открыли задания более высокого ранга, которые теперь можете выполнять для Хеймлиха. Эти задания дают больше опыта и хекс-монет."
+    },
+    {
+      "index": "16319",
+      "source": "Laru and Varu are looking for some help getting cloth for some new clothes. To get the materials needed, you will need to first learn farming with the help of Heimlich.",
+      "translation": "Лару и Вару ищут помощи, чтобы раздобыть ткань для новой одежды. Чтобы получить нужные материалы, сначала вам нужно научиться земледелию с помощью Хеймлиха."
+    },
+    {
+      "index": "16345",
+      "source": "There's a lot that goes into being a cook, such as discovering new recipes and completing deliveries. Go speak to Heimlich to learn more.",
+      "translation": "Быть поваром — это не только готовить: нужно открывать новые рецепты и выполнять доставки. Поговори с Хеймлихом, чтобы узнать больше."
+    },
+    {
+      "index": "16346",
+      "source": "Learn the more about cooking with Heimlich",
+      "translation": "Узнайте больше о кулинарии у Хеймлиха"
+    },
+    {
+      "index": "16374",
+      "source": "Heimlich is constantly tinkering with new ingredients to make new recipes. Maybe you should see what he needs?",
+      "translation": "Хеймлих постоянно экспериментирует с новыми ингредиентами, чтобы создавать новые рецепты. Может, стоит узнать, что ему нужно?"
+    },
+    {
+      "index": "16375",
+      "source": "Help Heimlich restock his stores of ingredients",
+      "translation": "Помогите Хеймлиху пополнить запасы ингредиентов"
+    },
+    {
+      "index": "16487",
+      "source": "Oh good. Thank you so much. I couldn't bear the thought of losing any more of the eggs. Heimlich was already asking about cooking the ones that wouldn't hatch.",
+      "translation": "Ох, хорошо. Спасибо тебе большое. Я не могла вынести мысли о том, что мы потеряем ещё больше яиц. Хеймлих уже спрашивал, можно ли приготовить те, что не вылупятся."
+    },
+    {
+      "index": "16689",
+      "source": "Heimlich says you will need to farm to get the materials needed for <style=highlight>(item=1090002)</style>.",
+      "translation": "Хеймлих говорит, что вам нужно будет заняться фермерством, чтобы получить материалы, необходимые для <style=highlight>(item=1090002)</style>."
+    },
+    {
+      "index": "16899",
+      "source": "Speak to Heimlich",
+      "translation": "Поговорите с Хеймлихом"
+    },
+    {
+      "index": "16900",
+      "source": "Find a town with Heimlich",
+      "translation": "Найдите город с Хеймлихом"
+    },
+    {
+      "index": "17043",
+      "source": "Oh hey! Welcome back! Did Heimlich have the cloth we need?",
+      "translation": "О, привет! С возвращением! У Хеймлиха была ткань, которая нам нужна?"
+    },
+    {
+      "index": "17145",
+      "source": "Heimlich needs to explain farming.",
+      "translation": "Хеймлих должен объяснить земледелие."
+    },
+    {
+      "index": "17155",
+      "source": "Heimlich wishes to congratulate you.",
+      "translation": "Хеймлих хочет поздравить вас."
+    },
+    {
+      "index": "17399",
+      "source": "Return to Heimlich",
+      "translation": "Вернуться к Хеймлиху"
+    },
+    {
+      "index": "17645",
+      "source": "Talk to Heimlich and see what he needs",
+      "translation": "Поговорите с Хеймлихом и узнайте, что ему нужно"
+    },
+    {
+      "index": "17826",
+      "source": "Complete one of <style=inline-icon-2>w</style> <style=highlight>Heimlich's Tasks</style> by speaking to him.",
+      "translation": "Завершите одно из <style=inline-icon-2>w</style> <style=highlight>заданий Хеймлиха</style>, поговорив с ним."
+    },
+    {
+      "index": "18263",
+      "source": "Heimlich says you will need to farm to get the materials needed to craft <style=highlight>(item=1090002)</style>.",
+      "translation": "Хеймлих говорит, что вам нужно будет заниматься фермерством, чтобы получить материалы, необходимые для создания <style=highlight>(item=1090002)</style>."
+    },
+    {
+      "index": "18703",
+      "source": "Talk to Heimlich about learning to make Nubi Berry Mash",
+      "translation": "Поговорите с Хеймлихом о том, как научиться готовить пюре из ягод Нуби"
+    },
+    {
+      "index": "18727",
+      "source": "Heimlich has taught you to create Nubi Berry Mash",
+      "translation": "Хеймлих научил вас готовить пюре из ягод Нуби"
+    },
+    {
+      "index": "18753",
+      "source": "I will need some treats to entice the goat though. They're quite found of a snack that I refer to Nubi Berry Mash. Visit Heimlich, he'll help you make some. Bring me 100 of them and I can start the training.",
+      "translation": "Правда, мне понадобятся лакомства, чтобы приманить козу. Они очень любят перекус, который я называю Пюре из ягод Нуби. Загляни к Хеймлиху — он поможет тебе приготовить. Принеси мне 100 штук, и я смогу начать обучение."
+    },
+    {
+      "index": "19342",
+      "source": "Swift Cervus",
+      "translation": "Быстрый олень"
+    },
+    {
+      "index": "20428",
+      "source": "Enraged Drone Nest",
+      "translation": "Гнездо разъярённых пчёл"
+    },
+    {
+      "index": "21130",
+      "source": "Spices that Heimlich sells for use in the feast Alesi has requested. It sure isn't cheap...",
+      "translation": "Специи, которые Хеймлих продаёт для использования на пиру, о котором просила Алеси. Дешёвым это точно не назовёшь..."
+    },
+    {
+      "index": "21767",
+      "source": "Captured Nubi Goat",
+      "translation": "Пойманная коза Нуби"
+    },
+    {
+      "index": "22198",
+      "source": "Giant Hexite Skitch",
+      "translation": "Гигантский хекс краб"
+    },
+    {
+      "index": "22348",
+      "source": "A tropical coconut that has properly grown. Heimlich would probably buy these for his cooking.",
+      "translation": "Тропический кокос, который как следует созрел. Хеймлих, вероятно, купил бы их для своей готовки."
+    },
+    {
+      "index": "24401",
+      "source": "Basic Lobster",
+      "translation": "Грубый лобстер"
+    },
+    {
+      "index": "24404",
+      "source": "Basic Raw Lobster Meat",
+      "translation": "Грубое сырое мясо лобстера"
+    },
+    {
+      "index": "24526",
+      "source": "Fine Lobster",
+      "translation": "Хороший лобстер"
+    },
+    {
+      "index": "24528",
+      "source": "Fine Raw Lobster Meat",
+      "translation": "Хорошее сырое мясо лобстера"
+    },
+    {
+      "index": "24570",
+      "source": "Infused Lobster",
+      "translation": "Прочный лобстер"
+    },
+    {
+      "index": "24571",
+      "source": "Infused Raw Lobster Meat",
+      "translation": "Прочное сырое мясо лобстера"
+    },
+    {
+      "index": "24626",
+      "source": "Ornate Lobster",
+      "translation": "Витиеватый лобстер"
+    },
+    {
+      "index": "24628",
+      "source": "Ornate Raw Lobster Meat",
+      "translation": "Витиеватое сырое мясо лобстера"
+    },
+    {
+      "index": "24636",
+      "source": "Pristine Lobster",
+      "translation": "Нетронутый лобстер"
+    },
+    {
+      "index": "24638",
+      "source": "Pristine Raw Lobster Meat",
+      "translation": "Нетронутое сырое мясо лобстера"
+    },
+    {
+      "index": "24955",
+      "source": "Refund Heimlich Business Voucher",
+      "translation": "Возврат ваучера «Бизнес Хеймлиха»"
+    },
+    {
+      "index": "25501",
+      "source": "I had told <b>Heimlich</b> the story of a giant fish that roams the waters, one which toppled rafts and ships alike. You want to know what their reaction to that story was?",
+      "translation": "Я рассказал <b>Хеймлиху</b> историю о гигантской рыбе, что бороздит воды и опрокидывает и плоты, и корабли. Хочешь знать, какой была их реакция на эту историю?"
+    },
+    {
+      "index": "26087",
+      "source": "Heimlich has need of some cooking materials, bring him the following:\n70 <style=highlight>(item=728096566)</style>\n120 <style=highlight>(item=699985609)</style>\n120 <style=highlight>(item=51716987)</style>",
+      "translation": "Хеймлиху нужны некоторые кулинарные материалы, принесите ему следующее:\n70 <style=highlight>(item=728096566)</style>\n120 <style=highlight>(item=699985609)</style>\n120 <style=highlight>(item=51716987)</style>"
+    },
+    {
+      "index": "26092",
+      "source": "Heimlich has need of some cooking materials, bring him the following:\n70 <style=highlight>(item=538920616)</style>\n120 <style=highlight>(item=892842742)</style>\n120 <style=highlight>(item=1608154701)</style>",
+      "translation": "Хеймлиху нужны кое-какие кулинарные материалы, принеси ему следующее:\n70 <style=highlight>(item=538920616)</style>\n120 <style=highlight>(item=892842742)</style>\n120 <style=highlight>(item=1608154701)</style>"
+    },
+    {
+      "index": "26123",
+      "source": "Heimlich has need of some cooking materials, bring him the following:\n40 <style=highlight>(item=4120005)</style>\n50 <style=highlight>(item=4130002)</style>\n30 <style=highlight>(item=4100010)</style>",
+      "translation": "Хеймлиху нужны кое-какие ингредиенты для готовки, принесите ему следующее:\n40 <style=highlight>(item=4120005)</style>\n50 <style=highlight>(item=4130002)</style>\n30 <style=highlight>(item=4100010)</style>"
+    },
+    {
+      "index": "26130",
+      "source": "Good catch! Let's go show this to Heimlich!",
+      "translation": "Отлично! Пойдём покажем это Хеймлиху!"
+    },
+    {
+      "index": "26137",
+      "source": "Heimlich has need of some cooking materials, bring him the following:\n60 <style=highlight>(item=6120005)</style>\n100 <style=highlight>(item=6130002)</style>\n50 <style=highlight>(item=6100010)</style>",
+      "translation": "Хеймлиху нужны кулинарные материалы, принесите ему следующее:\n60 <style=highlight>(item=6120005)</style>\n100 <style=highlight>(item=6130002)</style>\n50 <style=highlight>(item=6100010)</style>"
+    },
+    {
+      "index": "26162",
+      "source": "Heimlich has need of some cooking materials, bring him the following:\n50 <style=highlight>(item=5120005)</style>\n100 <style=highlight>(item=5130002)</style>\n100 <style=highlight>(item=5130004)</style>",
+      "translation": "Хеймлиху нужны ингредиенты для готовки, принесите ему следующее:\n50 <style=highlight>(item=5120005)</style>\n100 <style=highlight>(item=5130002)</style>\n100 <style=highlight>(item=5130004)</style>"
+    },
+    {
+      "index": "28481",
+      "source": "Distracted Cervus",
+      "translation": "Приманенный олень"
+    },
+    {
+      "index": "28482",
+      "source": "Distracted Desert Terrorbird",
+      "translation": "Приманенная пустынная птица-ужаса"
+    },
+    {
+      "index": "28483",
+      "source": "Distracted Elder Scrofa",
+      "translation": "Приманенный старый вепрь"
+    },
+    {
+      "index": "28484",
+      "source": "Distracted Jungle Terrorbird",
+      "translation": "Приманенная джунглевая птица-ужаса"
+    },
+    {
+      "index": "28485",
+      "source": "Distracted Nubi Goat",
+      "translation": "Приманенная коза нуби"
+    },
+    {
+      "index": "28486",
+      "source": "Distracted Ox",
+      "translation": "Приманенный бык"
+    },
+    {
+      "index": "28487",
+      "source": "Distracted Sagi Bird",
+      "translation": "Приманенная птица саги"
+    },
+    {
+      "index": "28488",
+      "source": "Distracted Scrofa",
+      "translation": "Приманенный кабан"
+    },
+    {
+      "index": "28489",
+      "source": "Distracted Tundra Ox",
+      "translation": "Приманенный тундровый бык"
+    },
+    {
+      "index": "28490",
+      "source": "Distracted Yagi",
+      "translation": "Приманенный яги"
+    }
+  ]
+}
