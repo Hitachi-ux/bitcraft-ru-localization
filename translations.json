@@ -202,19 +202,9 @@
       "translation": "Сначала объекты"
     },
     {
-      "index": "551",
-      "source": "chat-small",
-      "translation": "малый"
-    },
-    {
-      "index": "552",
-      "source": "chat-default",
-      "translation": "стандартный"
-    },
-    {
       "index": "553",
       "source": "chat-large",
-      "translation": "большой"
+      "translation": "chat-large"
     },
     {
       "index": "554",

@@ -15,6 +15,13 @@ class CatalogTest(unittest.TestCase):
     def test_refuses_unknown_catalog(self):
         with self.assertRaises(RuntimeError):localize.catalog_patch(b'{"m_ExtraDataString":""}',1,1)
 
+class TranslationTest(unittest.TestCase):
+    def test_chat_style_identifiers_are_not_translated(self):
+        data=json.loads((localize.ROOT/'translations.json').read_text(encoding='utf-8'))
+        edits={entry['source']:entry['translation'] for entry in data['entries']}
+        for name in ('chat-small','chat-default','chat-large'):
+            self.assertEqual(edits.get(name,name),name)
+
 class SafetyTest(unittest.TestCase):
     def test_rejects_incompatible_files_before_writing(self):
         with tempfile.TemporaryDirectory() as d:
