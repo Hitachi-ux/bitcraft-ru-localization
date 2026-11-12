@@ -3,9 +3,10 @@
 import argparse, base64, csv, hashlib, io, json, os, re, shutil, subprocess, sys, tempfile, zlib
 from pathlib import Path
 
-BUNDLE = 'remoteassets_assets__6b3aedddc200617548234b0c8142d4e6.bundle'
-ORIGINAL_BUNDLE_SHA = '123e86f6c6ddc9b21c081d11a329b42e3fae853372f33793e10c74c37c16af11'
-ORIGINAL_CATALOG_SHA = 'ed7c72209e9b23e885f7d57c22ebd3559176f48907289175537232072ad1ff2b'
+BUNDLE_ID = '001edeb866b9df107a08202e62b90f3a'
+BUNDLE = f'remoteassets_assets__{BUNDLE_ID}.bundle'
+ORIGINAL_BUNDLE_SHA = '3d48efd6bb3a37bb9ba635ab22d503548cfa945c88677d48acc8adaa012ac24c'
+ORIGINAL_CATALOG_SHA = 'd9e7d11b11e863f1a4413aada369f7bdb854c611d79d306c88b40f4af199676c'
 ROOT = Path(__file__).resolve().parent
 
 def digest(path):
@@ -26,15 +27,19 @@ def paths(root):
     return aa,aa/'StandaloneWindows64'/BUNDLE,aa/'catalog.json',aa/'bitcraft-ru-backup'
 
 def catalog_patch(raw, crc, size):
-    obj=json.loads(raw.decode('utf-8-sig')); blob=base64.b64decode(obj['m_ExtraDataString']); needle='6b3aedddc200617548234b0c8142d4e6'.encode('utf-16le')
+    obj=json.loads(raw.decode('utf-8-sig')); blob=base64.b64decode(obj['m_ExtraDataString']); needle=BUNDLE_ID.encode('utf-16le')
     if blob.count(needle)!=1: raise RuntimeError('Запись пакета в каталоге не найдена или неоднозначна.')
     start=blob.index(needle);end=blob.find(b'\x07LUnity.ResourceManager',start)
     if end<0: raise RuntimeError('Не найден конец записи пакета.')
     piece=blob[start:end]
-    for old,new in [('"m_Crc":1949562651','"m_Crc":'+str(crc).ljust(10)),('"m_BundleSize":1426483502','"m_BundleSize":'+str(size).ljust(10))]:
-        a=old.encode('utf-16le');b=new.encode('utf-16le')
-        if len(a)!=len(b) or piece.count(a)!=1: raise RuntimeError('Формат записи каталога изменился.')
-        piece=piece.replace(a,b,1)
+    text=piece.decode('utf-16le')
+    for key,value in [('m_Crc',crc),('m_BundleSize',size)]:
+        matches=list(re.finditer(r'("'+key+r'":)(\d+)',text))
+        if len(matches)!=1: raise RuntimeError('Формат записи каталога изменился.')
+        match=matches[0];replacement=str(value)
+        if len(replacement)>len(match.group(2)): raise RuntimeError('Новое значение каталога длиннее исходного.')
+        text=text[:match.start(2)]+replacement.ljust(len(match.group(2)))+text[match.end(2):]
+    piece=text.encode('utf-16le')
     newblob=blob[:start]+piece+blob[end:];old64=obj['m_ExtraDataString'].encode('ascii');new64=base64.b64encode(newblob)
     if len(new64)!=len(old64) or raw.count(old64)!=1: raise RuntimeError('Невозможно безопасно обновить каталог.')
     result=raw.replace(old64,new64,1);check=json.loads(result.decode('utf-8-sig'))

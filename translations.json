@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "index": "2",
@@ -10,11 +10,6 @@
       "index": "5",
       "source": "You do not have permission to move this building",
       "translation": "У вас нет прав на перемещение этого здания"
-    },
-    {
-      "index": "10",
-      "source": "{0} Projects",
-      "translation": "Проекты: {0}"
     },
     {
       "index": "13",
@@ -32,29 +27,14 @@
       "translation": "Вы уверены, что хотите заглушить этого игрока в чате?"
     },
     {
-      "index": "30",
-      "source": "Mute",
-      "translation": "Заглушить"
-    },
-    {
       "index": "38",
       "source": "You haven't learned to read yet",
       "translation": "Вы ещё не научились читать"
     },
     {
-      "index": "58",
-      "source": "{0} queue time",
-      "translation": "Время в очереди: {0}"
-    },
-    {
       "index": "69",
       "source": "Progression",
       "translation": "Развитие"
-    },
-    {
-      "index": "78",
-      "source": "Toggle Map",
-      "translation": "Открыть или закрыть карту"
     },
     {
       "index": "79",
@@ -97,11 +77,6 @@
       "translation": "Панорамная камера"
     },
     {
-      "index": "140",
-      "source": "Claim A Capsule",
-      "translation": "Получить капсулу"
-    },
-    {
       "index": "146",
       "source": "Move {0} Out",
       "translation": "Выселить {0}"
@@ -122,9 +97,9 @@
       "translation": "Выбросить"
     },
     {
-      "index": "161",
-      "source": "Hello, little one.",
-      "translation": "Привет, малыш."
+      "index": "160",
+      "source": "Ramparte",
+      "translation": "Рампарт"
     },
     {
       "index": "168",
@@ -150,21 +125,6 @@
       "index": "181",
       "source": "Officers can manage its members.",
       "translation": "Офицеры могут управлять участниками канала."
-    },
-    {
-      "index": "369",
-      "source": "Withdraw All",
-      "translation": "Выкинуть всё"
-    },
-    {
-      "index": "419",
-      "source": "Basic",
-      "translation": "Базовый"
-    },
-    {
-      "index": "426",
-      "source": "common",
-      "translation": "обычный"
     },
     {
       "index": "434",
@@ -202,19 +162,34 @@
       "translation": "Сначала объекты"
     },
     {
-      "index": "553",
-      "source": "chat-large",
-      "translation": "chat-large"
-    },
-    {
       "index": "554",
       "source": "Whisper",
       "translation": "Шёпот"
     },
     {
+      "index": "1007",
+      "source": "Rumbagh",
+      "translation": "Румбага"
+    },
+    {
+      "index": "1379",
+      "source": "Alesi",
+      "translation": "Алеси"
+    },
+    {
+      "index": "1694",
+      "source": "Svim",
+      "translation": "Свим"
+    },
+    {
       "index": "1731",
       "source": "Heimlich",
       "translation": "Хеймлих"
+    },
+    {
+      "index": "1748",
+      "source": "Brico",
+      "translation": "Брико"
     },
     {
       "index": "4259",
@@ -257,6 +232,11 @@
       "translation": "Пустынная птица-ужаса"
     },
     {
+      "index": "5044",
+      "source": "Elder Scrofa",
+      "translation": "Старая веприца"
+    },
+    {
       "index": "5047",
       "source": "Elenvar Ore Chunk",
       "translation": "Глыба эленваровой руды"
@@ -275,6 +255,16 @@
       "index": "5109",
       "source": "Exquisite Timber",
       "translation": "Изысканный пиломатериал"
+    },
+    {
+      "index": "5122",
+      "source": "Female Cervus",
+      "translation": "Самка оленя"
+    },
+    {
+      "index": "5123",
+      "source": "Female Scrofa",
+      "translation": "Самка кабана"
     },
     {
       "index": "5126",
@@ -337,6 +327,21 @@
       "translation": "Глыба люминитовой руды"
     },
     {
+      "index": "5251",
+      "source": "Male Cervus",
+      "translation": "Самец оленя"
+    },
+    {
+      "index": "5252",
+      "source": "Male Scrofa",
+      "translation": "Самец кабана"
+    },
+    {
+      "index": "5260",
+      "source": "Nubi Goat",
+      "translation": "Коза Нуби"
+    },
+    {
       "index": "5265",
       "source": "Ornate Brick Slab",
       "translation": "Витиеватая кирпичная плита"
@@ -382,6 +387,11 @@
       "translation": "Бесподобная кожаная обшивка"
     },
     {
+      "index": "5321",
+      "source": "Peerless Stone Chunk",
+      "translation": "Бесподобный каменный обломок"
+    },
+    {
       "index": "5323",
       "source": "Peerless Timber",
       "translation": "Бесподобный пиломатериал"
@@ -395,6 +405,11 @@
       "index": "5332",
       "source": "Pristine Brick Slab",
       "translation": "Нетронутая кирпичная плита"
+    },
+    {
+      "index": "5336",
+      "source": "Pristine Cloth Tarp",
+      "translation": "Нетронутый тканевый тент"
     },
     {
       "index": "5345",
@@ -422,6 +437,11 @@
       "translation": "Глыба пирелитовой руды"
     },
     {
+      "index": "5367",
+      "source": "Rangifer",
+      "translation": "Северный олень"
+    },
+    {
       "index": "5370",
       "source": "Rathium Ore Chunk",
       "translation": "Глыба ратиевой руды"
@@ -442,14 +462,14 @@
       "translation": "Грубый ствол"
     },
     {
+      "index": "5459",
+      "source": "Sagi Bird",
+      "translation": "Птица саги"
+    },
+    {
       "index": "5472",
       "source": "Simple Cloth Tarp",
       "translation": "Простой тканевый тент"
-    },
-    {
-      "index": "5491",
-      "source": "Simple Stone Chunk",
-      "translation": "Простой каменный обломок"
     },
     {
       "index": "5493",
@@ -462,9 +482,24 @@
       "translation": "Простой ствол"
     },
     {
+      "index": "5502",
+      "source": "Sturdy Brick Slab",
+      "translation": "Прочная кирпичная плита"
+    },
+    {
       "index": "5505",
       "source": "Sturdy Cloth Tarp",
       "translation": "Прочный тканевый тент"
+    },
+    {
+      "index": "5511",
+      "source": "Sturdy Leather Sheeting",
+      "translation": "Прочная кожаная обшивка"
+    },
+    {
+      "index": "5518",
+      "source": "Sturdy Stone Chunk",
+      "translation": "Прочный каменный обломок"
     },
     {
       "index": "5519",
@@ -475,6 +510,31 @@
       "index": "5522",
       "source": "Sturdy Wood Trunk",
       "translation": "Прочный ствол"
+    },
+    {
+      "index": "5525",
+      "source": "Tier 10 Animal",
+      "translation": "Животное 10-го уровня"
+    },
+    {
+      "index": "5526",
+      "source": "Tier 7 Animal",
+      "translation": "Животное 7-го уровня"
+    },
+    {
+      "index": "5527",
+      "source": "Tier 8 Animal",
+      "translation": "Животное 8 ранга"
+    },
+    {
+      "index": "5528",
+      "source": "Tier 9 Animal",
+      "translation": "Животное 9-го ранга"
+    },
+    {
+      "index": "5529",
+      "source": "Tundra Ox",
+      "translation": "Тундровый бык"
     },
     {
       "index": "5532",
@@ -505,6 +565,11 @@
       "index": "8111",
       "source": "Drone",
       "translation": "Пчела"
+    },
+    {
+      "index": "8115",
+      "source": "Frost Crab",
+      "translation": "Ледяной краб"
     },
     {
       "index": "8116",
@@ -567,6 +632,11 @@
       "translation": "Болотная жаба"
     },
     {
+      "index": "8140",
+      "source": "Terratoad",
+      "translation": "Земляная жаба"
+    },
+    {
       "index": "8283",
       "source": "An ancient component that could be repaired and sold to Heimlich.",
       "translation": "Древний компонент, который можно отремонтировать и продать Хеймлиху."
@@ -577,9 +647,34 @@
       "translation": "Древний компонент, который можно использовать для изготовления строительных материалов на продажу Хеймлиху."
     },
     {
+      "index": "8428",
+      "source": "Astralite Ingot",
+      "translation": "Слиток астралита"
+    },
+    {
+      "index": "8439",
+      "source": "Astralite Nails",
+      "translation": "Астралитовые гвозди"
+    },
+    {
       "index": "8442",
       "source": "Astralite Ore Concentrate",
       "translation": "Крошка астралитовой руды"
+    },
+    {
+      "index": "8445",
+      "source": "Astralite Ore Piece",
+      "translation": "Кусок астралитовой руды"
+    },
+    {
+      "index": "8498",
+      "source": "Aurumite Ingot",
+      "translation": "Аурумитовый слиток"
+    },
+    {
+      "index": "8504",
+      "source": "Aurumite Nails",
+      "translation": "Аурумитовые гвозди"
     },
     {
       "index": "8505",
@@ -632,14 +727,99 @@
       "translation": "Грубые семена шепоткани"
     },
     {
+      "index": "8762",
+      "source": "Celestium Ingot",
+      "translation": "Слиток целестия"
+    },
+    {
+      "index": "8768",
+      "source": "Celestium Nails",
+      "translation": "Гвозди из целестиума"
+    },
+    {
       "index": "8769",
       "source": "Celestium Ore Concentrate",
       "translation": "Крошка целестиевой руды"
     },
     {
+      "index": "8770",
+      "source": "Celestium Ore Piece",
+      "translation": "Кусок целестиевой руды"
+    },
+    {
+      "index": "8922",
+      "source": "Crushed Astralite Ore",
+      "translation": "Дроблёная астралитовая руда"
+    },
+    {
+      "index": "8925",
+      "source": "Crushed Astralite Ore Output",
+      "translation": "Дроблёный выход астралитовой руды"
+    },
+    {
+      "index": "8926",
+      "source": "Crushed Aurumite Ore",
+      "translation": "Дроблёная ауромитовая руда"
+    },
+    {
+      "index": "8927",
+      "source": "Crushed Aurumite Ore Output",
+      "translation": "Добыча дроблёной ауромитовой руды"
+    },
+    {
+      "index": "8928",
+      "source": "Crushed Celestium Ore",
+      "translation": "Дроблёная целестиумовая руда"
+    },
+    {
+      "index": "8929",
+      "source": "Crushed Celestium Ore Output",
+      "translation": "Дроблёная целестиумная руда (выход)"
+    },
+    {
+      "index": "8930",
+      "source": "Crushed Elenvar Ore",
+      "translation": "Дроблёная эленварская руда"
+    },
+    {
+      "index": "8931",
+      "source": "Crushed Elenvar Ore Output",
+      "translation": "Выход дроблёной эленваровой руды"
+    },
+    {
+      "index": "8932",
+      "source": "Crushed Emarium Ore",
+      "translation": "Дроблёная эмариумовая руда"
+    },
+    {
+      "index": "8933",
+      "source": "Crushed Emarium Ore Output",
+      "translation": "Выход дроблёной эмариумовой руды"
+    },
+    {
+      "index": "8937",
+      "source": "Crushed Ferralith Ore",
+      "translation": "Дроблёная ферралитовая руда"
+    },
+    {
+      "index": "8938",
+      "source": "Crushed Ferralith Ore Output",
+      "translation": "Выход дроблёной ферралитовой руды"
+    },
+    {
       "index": "8939",
       "source": "Crushed Fine Shells",
       "translation": "Дроблёные хорошие раковины"
+    },
+    {
+      "index": "8941",
+      "source": "Crushed Luminite Ore",
+      "translation": "Дроблёная луминитовая руда"
+    },
+    {
+      "index": "8942",
+      "source": "Crushed Luminite Ore Output",
+      "translation": "Выход дроблёной люминитовой руды"
     },
     {
       "index": "8944",
@@ -657,14 +837,24 @@
       "translation": "Дроблёные нетронутые раковины"
     },
     {
-      "index": "8955",
-      "source": "Crushed Rough Shells",
-      "translation": "Дроблёные грубые раковины"
+      "index": "8951",
+      "source": "Crushed Pyrelite Ore",
+      "translation": "Дроблёная пирелитовая руда"
     },
     {
-      "index": "8956",
-      "source": "Crushed Simple Shells",
-      "translation": "Дроблёные простые раковины"
+      "index": "8952",
+      "source": "Crushed Pyrelite Ore Output",
+      "translation": "Дроблёная пирелитовая руда (выход)"
+    },
+    {
+      "index": "8953",
+      "source": "Crushed Rathium Ore",
+      "translation": "Дроблёная ратиумовая руда"
+    },
+    {
+      "index": "8954",
+      "source": "Crushed Rathium Ore Output",
+      "translation": "Выход дроблёной руды ратиума"
     },
     {
       "index": "8957",
@@ -672,9 +862,34 @@
       "translation": "Дроблёные прочные раковины"
     },
     {
+      "index": "8958",
+      "source": "Crushed Umbracite Ore",
+      "translation": "Дроблёная умбрацитовая руда"
+    },
+    {
+      "index": "8959",
+      "source": "Crushed Umbracite Ore Output",
+      "translation": "Добыча дроблёной умбрацитовой руды"
+    },
+    {
       "index": "8965",
       "source": "A badly damaged ancient component. Heimlich would be interested in this if you could find a way to repair it.",
       "translation": "Сильно повреждённый древний компонент. Хеймлиху было бы это интересно, если ты сможешь найти способ его починить."
+    },
+    {
+      "index": "9444",
+      "source": "Elenvar Ingot",
+      "translation": "Слиток эленвара"
+    },
+    {
+      "index": "9445",
+      "source": "Elenvar Ingot Output",
+      "translation": "Выход слитка Эленвар"
+    },
+    {
+      "index": "9452",
+      "source": "Elenvar Nails",
+      "translation": "Гвозди Эленвара"
     },
     {
       "index": "9453",
@@ -682,9 +897,39 @@
       "translation": "Крошка эленваровой руды"
     },
     {
+      "index": "9454",
+      "source": "Elenvar Ore Piece",
+      "translation": "Кусок эленваровой руды"
+    },
+    {
+      "index": "9492",
+      "source": "Emarium Ingot",
+      "translation": "Слиток эмариума"
+    },
+    {
+      "index": "9493",
+      "source": "Emarium Ingot Output",
+      "translation": "Слиток эмариума: результат изготовления"
+    },
+    {
+      "index": "9499",
+      "source": "Emarium Nails",
+      "translation": "Эмариумные гвозди"
+    },
+    {
       "index": "9500",
       "source": "Emarium Ore Concentrate",
       "translation": "Крошка эмариевой руды"
+    },
+    {
+      "index": "9501",
+      "source": "Emarium Ore Piece",
+      "translation": "Кусок эмариевой руды"
+    },
+    {
+      "index": "9637",
+      "source": "Exquisite Animal Hair",
+      "translation": "Изысканная звериная шерсть"
     },
     {
       "index": "9666",
@@ -692,9 +937,9 @@
       "translation": "Изысканный комок глины"
     },
     {
-      "index": "9677",
-      "source": "Exquisite Cloth Strip",
-      "translation": "Изысканная полоска ткани"
+      "index": "9675",
+      "source": "Exquisite Cloth Output",
+      "translation": "Изысканная ткань (результат)"
     },
     {
       "index": "9692",
@@ -782,9 +1027,29 @@
       "translation": "Изысканное бревно (результат)"
     },
     {
+      "index": "9898",
+      "source": "Ferralith Ingot",
+      "translation": "Слиток ферралита"
+    },
+    {
+      "index": "9899",
+      "source": "Ferralith Ingot Output",
+      "translation": "Слиток фераллита: результат"
+    },
+    {
+      "index": "9905",
+      "source": "Ferralith Nails",
+      "translation": "Ферралитовые гвозди"
+    },
+    {
       "index": "9906",
       "source": "Ferralith Ore Concentrate",
       "translation": "Крошка ферралитовой руды"
+    },
+    {
+      "index": "9907",
+      "source": "Ferralith Ore Piece",
+      "translation": "Кусок ферралитовой руды"
     },
     {
       "index": "9927",
@@ -987,9 +1252,14 @@
       "translation": "Хорошее бревно (результат)"
     },
     {
-      "index": "10134",
-      "source": "Flawless Cleaned Pelt",
-      "translation": "Безупречная очищенная шкура"
+      "index": "10117",
+      "source": "Flawless Animal Hair",
+      "translation": "Безупречная звериная шерсть"
+    },
+    {
+      "index": "10133",
+      "source": "Flawless Clay Lump",
+      "translation": "Безупречный комок глины"
     },
     {
       "index": "10146",
@@ -1042,6 +1312,16 @@
       "translation": "Этот ваучер можно использовать для строительства здания, из которого Хеймлих будет вести дела в вашем поселении."
     },
     {
+      "index": "10373",
+      "source": "High Quality Elenvar Ingot",
+      "translation": "Высококачественный слиток эленвара"
+    },
+    {
+      "index": "10374",
+      "source": "High Quality Emarium Ingot",
+      "translation": "Высококачественный слиток эмария"
+    },
+    {
       "index": "10375",
       "source": "High Quality Exquisite Cloth",
       "translation": "Изысканная ткань высокого качества"
@@ -1055,6 +1335,11 @@
       "index": "10378",
       "source": "High Quality Exquisite Plank",
       "translation": "Изысканная доска высокого качества"
+    },
+    {
+      "index": "10380",
+      "source": "High Quality Ferralith Ingot",
+      "translation": "Высококачественный ферралитовый слиток"
     },
     {
       "index": "10381",
@@ -1072,6 +1357,11 @@
       "translation": "Хорошая доска высокого качества"
     },
     {
+      "index": "10384",
+      "source": "High Quality Luminite Ingot",
+      "translation": "Высококачественный люминитовый слиток"
+    },
+    {
       "index": "10385",
       "source": "High Quality Peerless Cloth",
       "translation": "Бесподобная ткань высокого качества"
@@ -1087,9 +1377,24 @@
       "translation": "Бесподобная доска высокого качества"
     },
     {
+      "index": "10388",
+      "source": "High Quality Pyrelite Ingot",
+      "translation": "Слиток пирелита высокого качества"
+    },
+    {
+      "index": "10389",
+      "source": "High Quality Rathium Ingot",
+      "translation": "Слиток ратия высокого качества"
+    },
+    {
       "index": "10390",
       "source": "High Quality Rough Cloth",
       "translation": "Грубая ткань высокого качества"
+    },
+    {
+      "index": "10391",
+      "source": "High Quality Rough Leather",
+      "translation": "Грубая кожа высокого качества"
     },
     {
       "index": "10392",
@@ -1097,14 +1402,34 @@
       "translation": "Грубая доска высокого качества"
     },
     {
+      "index": "10393",
+      "source": "High Quality Simple Cloth",
+      "translation": "Простая ткань высокого качества"
+    },
+    {
+      "index": "10394",
+      "source": "High Quality Simple Leather",
+      "translation": "Простая кожа высокого качества"
+    },
+    {
       "index": "10395",
       "source": "High Quality Simple Plank",
       "translation": "Простая доска высокого качества"
     },
     {
+      "index": "10396",
+      "source": "High Quality Sturdy Cloth",
+      "translation": "Прочная ткань высокого качества"
+    },
+    {
       "index": "10397",
       "source": "High Quality Sturdy Leather",
       "translation": "Прочная кожа высокого качества"
+    },
+    {
+      "index": "10398",
+      "source": "High Quality Sturdy Plank",
+      "translation": "Прочная доска высокого качества"
     },
     {
       "index": "10409",
@@ -1147,9 +1472,29 @@
       "translation": "Прочные семена шепоткани"
     },
     {
+      "index": "10509",
+      "source": "Luminite Ingot",
+      "translation": "Слиток люминита"
+    },
+    {
+      "index": "10510",
+      "source": "Luminite Ingot Output",
+      "translation": "Выход слитка люминита"
+    },
+    {
+      "index": "10516",
+      "source": "Luminite Nails",
+      "translation": "Люминитовые гвозди"
+    },
+    {
       "index": "10517",
       "source": "Luminite Ore Concentrate",
       "translation": "Крошка люминитовой руды"
+    },
+    {
+      "index": "10518",
+      "source": "Luminite Ore Piece",
+      "translation": "Кусок люминитовой руды"
     },
     {
       "index": "10684",
@@ -1322,6 +1667,11 @@
       "translation": "Витиеватое бревно (результат)"
     },
     {
+      "index": "10916",
+      "source": "Peerless Amber Resin",
+      "translation": "Бесподобная янтарная смола"
+    },
+    {
       "index": "10917",
       "source": "Peerless Animal Hair",
       "translation": "Бесподобная звериная шерсть"
@@ -1330,6 +1680,11 @@
       "index": "10927",
       "source": "Peerless Brick",
       "translation": "Бесподобный кирпич"
+    },
+    {
+      "index": "10929",
+      "source": "Peerless Charcoal",
+      "translation": "Бесподобный древесный уголь"
     },
     {
       "index": "10933",
@@ -1352,9 +1707,24 @@
       "translation": "Бесподобная ткань (результат)"
     },
     {
+      "index": "10938",
+      "source": "Peerless Cloth Strip",
+      "translation": "Бесподобная полоска ткани"
+    },
+    {
+      "index": "10945",
+      "source": "Peerless Dried Pelt",
+      "translation": "Бесподобная высушенная шкура"
+    },
+    {
       "index": "10946",
       "source": "Peerless Embergrain",
       "translation": "Бесподобная пшеница"
+    },
+    {
+      "index": "10959",
+      "source": "Peerless Fish Oil",
+      "translation": "Бесподобный рыбий жир"
     },
     {
       "index": "10968",
@@ -1365,6 +1735,11 @@
       "index": "10974",
       "source": "Peerless Large Leather Output",
       "translation": "Бесподобный большой кусок кожи (результат)"
+    },
+    {
+      "index": "10975",
+      "source": "Peerless Leather",
+      "translation": "Бесподобная кожа"
     },
     {
       "index": "10981",
@@ -1382,9 +1757,29 @@
       "translation": "Бесподобный средний кусок кожи (результат)"
     },
     {
+      "index": "10992",
+      "source": "Peerless Parchment",
+      "translation": "Бесподобный пергамент"
+    },
+    {
+      "index": "10996",
+      "source": "Peerless Plank",
+      "translation": "Бесподобная доска"
+    },
+    {
       "index": "10997",
       "source": "Peerless Plank Output",
       "translation": "Бесподобная доска (результат)"
+    },
+    {
+      "index": "10998",
+      "source": "Peerless Plant Fiber",
+      "translation": "Бесподобное растительное волокно"
+    },
+    {
+      "index": "11000",
+      "source": "Peerless Raw Meat",
+      "translation": "Бесподобное сырое мясо"
     },
     {
       "index": "11001",
@@ -1402,6 +1797,11 @@
       "translation": "Бесподобная верёвка"
     },
     {
+      "index": "11013",
+      "source": "Peerless Sand",
+      "translation": "Бесподобный песок"
+    },
+    {
       "index": "11017",
       "source": "Peerless Shell",
       "translation": "Бесподобная раковина"
@@ -1412,9 +1812,19 @@
       "translation": "Катушка бесподобных ниток"
     },
     {
+      "index": "11025",
+      "source": "Peerless Straw",
+      "translation": "Бесподобная солома"
+    },
+    {
       "index": "11026",
       "source": "Peerless Stripped Wood",
       "translation": "Бесподобная древесина без коры"
+    },
+    {
+      "index": "11027",
+      "source": "Peerless Tanned Pelt",
+      "translation": "Бесподобная дублёная шкура"
     },
     {
       "index": "11029",
@@ -1445,6 +1855,11 @@
       "index": "11043",
       "source": "Peerless Wispweave Seeds",
       "translation": "Бесподобные семена шепоткани"
+    },
+    {
+      "index": "11044",
+      "source": "Peerless Wood Log",
+      "translation": "Бесподобное бревно"
     },
     {
       "index": "11045",
@@ -1537,6 +1952,11 @@
       "translation": "Нетронутая сырая шкура"
     },
     {
+      "index": "11190",
+      "source": "Pristine Rock",
+      "translation": "Нетронутый камень"
+    },
+    {
       "index": "11191",
       "source": "Pristine Rope",
       "translation": "Нетронутая верёвка"
@@ -1612,9 +2032,44 @@
       "translation": "Нетронутое бревно (результат)"
     },
     {
+      "index": "11277",
+      "source": "Pyrelite Ingot",
+      "translation": "Пирелитовый слиток"
+    },
+    {
+      "index": "11278",
+      "source": "Pyrelite Ingot Output",
+      "translation": "Слиток пирелита (результат)"
+    },
+    {
+      "index": "11284",
+      "source": "Pyrelite Nails",
+      "translation": "Пирелитовые гвозди"
+    },
+    {
       "index": "11285",
       "source": "Pyrelite Ore Concentrate",
       "translation": "Крошка пирелитовой руды"
+    },
+    {
+      "index": "11286",
+      "source": "Pyrelite Ore Piece",
+      "translation": "Кусок пирелитовой руды"
+    },
+    {
+      "index": "11336",
+      "source": "Rathium Ingot",
+      "translation": "Слиток ратия"
+    },
+    {
+      "index": "11337",
+      "source": "Rathium Ingot Output",
+      "translation": "Слиток ратия: результат"
+    },
+    {
+      "index": "11343",
+      "source": "Rathium Nails",
+      "translation": "Ратиевые гвозди"
     },
     {
       "index": "11344",
@@ -1632,24 +2087,34 @@
       "translation": "Сырое мясо краба"
     },
     {
-      "index": "11655",
-      "source": "Refined Exquisite Brick",
-      "translation": "Обработанный изысканный кирпич"
+      "index": "11649",
+      "source": "Refined Astralite Ingot",
+      "translation": "Очищенный слиток астралита"
     },
     {
-      "index": "11658",
-      "source": "Refined Exquisite Cloth",
-      "translation": "Обработанная изысканная ткань"
+      "index": "11651",
+      "source": "Refined Aurumite Ingot",
+      "translation": "Очищенный слиток ауромита"
     },
     {
-      "index": "11661",
-      "source": "Refined Exquisite Leather",
-      "translation": "Обработанная изысканная кожа"
+      "index": "11652",
+      "source": "Refined Celestium Ingot",
+      "translation": "Очищенный слиток целестиума"
     },
     {
-      "index": "11663",
-      "source": "Refined Exquisite Plank",
-      "translation": "Обработанная изысканная доска"
+      "index": "11653",
+      "source": "Refined Elenvar Ingot",
+      "translation": "Очищенный слиток эленвара"
+    },
+    {
+      "index": "11654",
+      "source": "Refined Emarium Ingot",
+      "translation": "Очищенный слиток эмариума"
+    },
+    {
+      "index": "11665",
+      "source": "Refined Ferralith Ingot",
+      "translation": "Очищенный слиток ферралита"
     },
     {
       "index": "11666",
@@ -1672,24 +2137,9 @@
       "translation": "Обработанная хорошая доска"
     },
     {
-      "index": "11670",
-      "source": "Refined Flawless Brick",
-      "translation": "Обработанный безупречный кирпич"
-    },
-    {
-      "index": "11671",
-      "source": "Refined Flawless Cloth",
-      "translation": "Обработанная безупречная ткань"
-    },
-    {
-      "index": "11672",
-      "source": "Refined Flawless Leather",
-      "translation": "Обработанная безупречная кожа"
-    },
-    {
-      "index": "11673",
-      "source": "Refined Flawless Plank",
-      "translation": "Обработанная безупречная доска"
+      "index": "11674",
+      "source": "Refined Luminite Ingot",
+      "translation": "Очищенный слиток люминита"
     },
     {
       "index": "11679",
@@ -1752,39 +2202,14 @@
       "translation": "Обработанная нетронутая доска"
     },
     {
-      "index": "11693",
-      "source": "Refined Rough Brick",
-      "translation": "Обработанный грубый кирпич"
+      "index": "11691",
+      "source": "Refined Pyrelite Ingot",
+      "translation": "Очищенный слиток пирелита"
     },
     {
-      "index": "11694",
-      "source": "Refined Rough Cloth",
-      "translation": "Обработанная грубая ткань"
-    },
-    {
-      "index": "11695",
-      "source": "Refined Rough Leather",
-      "translation": "Обработанная грубая кожа"
-    },
-    {
-      "index": "11697",
-      "source": "Refined Simple Brick",
-      "translation": "Обработанный простой кирпич"
-    },
-    {
-      "index": "11698",
-      "source": "Refined Simple Cloth",
-      "translation": "Обработанная простая ткань"
-    },
-    {
-      "index": "11699",
-      "source": "Refined Simple Leather",
-      "translation": "Обработанная простая кожа"
-    },
-    {
-      "index": "11700",
-      "source": "Refined Simple Plank",
-      "translation": "Обработанная простая доска"
+      "index": "11692",
+      "source": "Refined Rathium Ingot",
+      "translation": "Очищенный слиток ратия"
     },
     {
       "index": "11701",
@@ -1807,24 +2232,19 @@
       "translation": "Обработанная прочная доска"
     },
     {
-      "index": "11724",
-      "source": "Rough Charcoal",
-      "translation": "Грубый древесный уголь"
+      "index": "11706",
+      "source": "Refined Umbracite Ingot",
+      "translation": "Очищенный слиток умбрацита"
     },
     {
-      "index": "11725",
-      "source": "Rough Cleaned Pelt",
-      "translation": "Грубая очищенная шкура"
+      "index": "11716",
+      "source": "Rough Animal Hair",
+      "translation": "Грубая звериная шерсть"
     },
     {
-      "index": "11729",
-      "source": "Rough Cloth Strip",
-      "translation": "Грубая полоска ткани"
-    },
-    {
-      "index": "11735",
-      "source": "Rough Dried Pelt",
-      "translation": "Грубая высушенная шкура"
+      "index": "11728",
+      "source": "Rough Cloth Output",
+      "translation": "Грубая ткань (результат)"
     },
     {
       "index": "11750",
@@ -1852,11 +2272,6 @@
       "translation": "Грубая доска (результат)"
     },
     {
-      "index": "11784",
-      "source": "Rough Shell",
-      "translation": "Грубая раковина"
-    },
-    {
       "index": "11785",
       "source": "Rough Spool Of Thread",
       "translation": "Катушка грубых ниток"
@@ -1867,14 +2282,24 @@
       "translation": "Грубая древесина без коры"
     },
     {
+      "index": "11789",
+      "source": "Rough Tanned Pelt",
+      "translation": "Грубая дублёная шкура"
+    },
+    {
+      "index": "11794",
+      "source": "Rough Tree Bark",
+      "translation": "Грубая древесная кора"
+    },
+    {
+      "index": "11795",
+      "source": "Rough Tree Bark Output",
+      "translation": "Грубая древесная кора (результат)"
+    },
+    {
       "index": "11802",
       "source": "Rough Wispweave Filament",
       "translation": "Грубая нить шепоткани"
-    },
-    {
-      "index": "11803",
-      "source": "Rough Wood Log",
-      "translation": "Грубое бревно"
     },
     {
       "index": "11804",
@@ -1897,19 +2322,24 @@
       "translation": "Простая звериная шерсть"
     },
     {
+      "index": "11948",
+      "source": "Simple Clay Lump",
+      "translation": "Простой комок глины"
+    },
+    {
       "index": "11952",
       "source": "Simple Cloth Output",
       "translation": "Простая ткань (результат)"
     },
     {
+      "index": "11960",
+      "source": "Simple Dried Pelt",
+      "translation": "Простая высушенная шкура"
+    },
+    {
       "index": "11961",
       "source": "Simple Embergrain",
       "translation": "Простая пшеница"
-    },
-    {
-      "index": "11974",
-      "source": "Simple Fish Oil",
-      "translation": "Простой рыбий жир"
     },
     {
       "index": "11989",
@@ -1952,6 +2382,16 @@
       "translation": "Простая древесина без коры"
     },
     {
+      "index": "12048",
+      "source": "Simple Tree Bark",
+      "translation": "Простая древесная кора"
+    },
+    {
+      "index": "12049",
+      "source": "Simple Tree Bark Output",
+      "translation": "Простая древесная кора (результат)"
+    },
+    {
       "index": "12056",
       "source": "Simple Wispweave Filament",
       "translation": "Простая нить шепоткани"
@@ -1967,11 +2407,6 @@
       "translation": "Простые семена шепоткани"
     },
     {
-      "index": "12060",
-      "source": "Simple Wood Log",
-      "translation": "Простое бревно"
-    },
-    {
       "index": "12061",
       "source": "Simple Wood Log Output",
       "translation": "Простое бревно (результат)"
@@ -1982,9 +2417,34 @@
       "translation": "Прочная звериная шерсть"
     },
     {
+      "index": "12099",
+      "source": "Sturdy Brick",
+      "translation": "Прочный кирпич"
+    },
+    {
+      "index": "12100",
+      "source": "Sturdy Charcoal",
+      "translation": "Прочный древесный уголь"
+    },
+    {
+      "index": "12101",
+      "source": "Sturdy Cleaned Pelt",
+      "translation": "Прочная очищенная шкура"
+    },
+    {
+      "index": "12102",
+      "source": "Sturdy Cloth",
+      "translation": "Прочная ткань"
+    },
+    {
       "index": "12104",
       "source": "Sturdy Cloth Output",
       "translation": "Прочная ткань (результат)"
+    },
+    {
+      "index": "12105",
+      "source": "Sturdy Cloth Strip",
+      "translation": "Прочная полоска ткани"
     },
     {
       "index": "12110",
@@ -1992,9 +2452,24 @@
       "translation": "Прочная высушенная шкура"
     },
     {
+      "index": "12119",
+      "source": "Sturdy Glass",
+      "translation": "Прочное стекло"
+    },
+    {
       "index": "12124",
       "source": "Sturdy Large Leather Output",
       "translation": "Прочный большой кусок кожи (результат)"
+    },
+    {
+      "index": "12125",
+      "source": "Sturdy Leather",
+      "translation": "Прочная кожа"
+    },
+    {
+      "index": "12131",
+      "source": "Sturdy Leather Output",
+      "translation": "Прочная кожа (результат)"
     },
     {
       "index": "12134",
@@ -2007,6 +2482,11 @@
       "translation": "Прочный средний кусок кожи (результат)"
     },
     {
+      "index": "12136",
+      "source": "Sturdy Parchment",
+      "translation": "Прочный пергамент"
+    },
+    {
       "index": "12139",
       "source": "Sturdy Plank",
       "translation": "Прочная доска"
@@ -2017,9 +2497,29 @@
       "translation": "Прочная доска (результат)"
     },
     {
+      "index": "12141",
+      "source": "Sturdy Plant Fiber",
+      "translation": "Прочное растительное волокно"
+    },
+    {
+      "index": "12142",
+      "source": "Sturdy Raw Pelt",
+      "translation": "Прочная сырая шкура"
+    },
+    {
       "index": "12149",
       "source": "Sturdy Rock",
       "translation": "Прочный камень"
+    },
+    {
+      "index": "12150",
+      "source": "Sturdy Rope",
+      "translation": "Прочная верёвка"
+    },
+    {
+      "index": "12157",
+      "source": "Sturdy Shell",
+      "translation": "Прочная раковина"
     },
     {
       "index": "12158",
@@ -2027,14 +2527,34 @@
       "translation": "Катушка прочных ниток"
     },
     {
+      "index": "12160",
+      "source": "Sturdy Straw",
+      "translation": "Прочная солома"
+    },
+    {
       "index": "12161",
       "source": "Sturdy Stripped Wood",
       "translation": "Прочная древесина без коры"
     },
     {
+      "index": "12162",
+      "source": "Sturdy Tanned Pelt",
+      "translation": "Прочная дублёная шкура"
+    },
+    {
       "index": "12163",
       "source": "Sturdy Textile",
       "translation": "Прочный текстиль"
+    },
+    {
+      "index": "12166",
+      "source": "Sturdy Tree Bark",
+      "translation": "Прочная древесная кора"
+    },
+    {
+      "index": "12167",
+      "source": "Sturdy Tree Bark Output",
+      "translation": "Прочная древесная кора (результат)"
     },
     {
       "index": "12174",
@@ -2052,9 +2572,24 @@
       "translation": "Прочное бревно (результат)"
     },
     {
+      "index": "12406",
+      "source": "Umbracite Ingot",
+      "translation": "Слиток умбрацита"
+    },
+    {
+      "index": "12412",
+      "source": "Umbracite Nails",
+      "translation": "Умбрацитовые гвозди"
+    },
+    {
       "index": "12413",
       "source": "Umbracite Ore Concentrate",
       "translation": "Крошка умбрацитовой руды"
+    },
+    {
+      "index": "12414",
+      "source": "Umbracite Ore Piece",
+      "translation": "Кусок умбрацитовой руды"
     },
     {
       "index": "12483",
@@ -2075,6 +2610,11 @@
       "index": "12488",
       "source": "Unfired Pristine Brick",
       "translation": "Необожжённый нетронутый кирпич"
+    },
+    {
+      "index": "12491",
+      "source": "Unfired Sturdy Brick",
+      "translation": "Необожжённый прочный кирпич"
     },
     {
       "index": "13288",
@@ -2122,24 +2662,9 @@
       "translation": "Хеймлиху нужна Жареная океанская рыба для нового рецепта, над которым он работает."
     },
     {
-      "index": "14531",
-      "source": "Magnificent Cloth Tarp",
-      "translation": "Великолепный тканевый тент"
-    },
-    {
-      "index": "14553",
-      "source": "Magnificent Stone Chunk",
-      "translation": "Великолепный каменный обломок"
-    },
-    {
       "index": "14555",
       "source": "Magnificent Timber",
       "translation": "Великолепный пиломатериал"
-    },
-    {
-      "index": "14642",
-      "source": "Crushed Magnificent Shells",
-      "translation": "Дроблёные великолепные раковины"
     },
     {
       "index": "14652",
@@ -2157,6 +2682,11 @@
       "translation": "Великолепная пшеница"
     },
     {
+      "index": "14741",
+      "source": "Magnificent Shell",
+      "translation": "Великолепная раковина"
+    },
+    {
       "index": "14742",
       "source": "Magnificent Spool Of Thread",
       "translation": "Катушка великолепных ниток"
@@ -2165,6 +2695,11 @@
       "index": "14751",
       "source": "Magnificent Stripped Wood",
       "translation": "Великолепная древесина без коры"
+    },
+    {
+      "index": "14756",
+      "source": "Magnificent Tree Bark",
+      "translation": "Великолепная древесная кора"
     },
     {
       "index": "14757",
@@ -2192,31 +2727,6 @@
       "translation": "Великолепное бревно (результат)"
     },
     {
-      "index": "14774",
-      "source": "Refined Magnificent Brick",
-      "translation": "Обработанный великолепный кирпич"
-    },
-    {
-      "index": "14775",
-      "source": "Refined Magnificent Cloth",
-      "translation": "Обработанная великолепная ткань"
-    },
-    {
-      "index": "14776",
-      "source": "Refined Magnificent Leather",
-      "translation": "Обработанная великолепная кожа"
-    },
-    {
-      "index": "14777",
-      "source": "Refined Magnificent Plank",
-      "translation": "Обработанная великолепная доска"
-    },
-    {
-      "index": "14848",
-      "source": "Learn the basics of cooking with Heimlich",
-      "translation": "Изучи основы кулинарии вместе с Хеймлихом"
-    },
-    {
       "index": "15091",
       "source": "Enraged Alpha Jakyl",
       "translation": "Разъярённый альфа-шакал"
@@ -2230,6 +2740,16 @@
       "index": "15292",
       "source": "Baby Jakyl Den",
       "translation": "Логово детёнышей шакала"
+    },
+    {
+      "index": "15298",
+      "source": "Disturbed Alpha Puppy Den",
+      "translation": "Потревоженная логова щенка альфа-волка"
+    },
+    {
+      "index": "15299",
+      "source": "Docile Alpha Puppy Den",
+      "translation": "Логово ручного щенка альфы"
     },
     {
       "index": "15302",
@@ -2257,9 +2777,29 @@
       "translation": "Абиссальный Гладиус"
     },
     {
+      "index": "15710",
+      "source": "Azure Centro",
+      "translation": "Лазурный центро"
+    },
+    {
+      "index": "15714",
+      "source": "Briny Linus",
+      "translation": "Морской линус"
+    },
+    {
+      "index": "15716",
+      "source": "Cervus",
+      "translation": "Олень"
+    },
+    {
       "index": "15717",
       "source": "Divine Selachii",
       "translation": "Божественная Селахия"
+    },
+    {
+      "index": "15721",
+      "source": "Greenhorn Gorbu",
+      "translation": "Молодой Горбу"
     },
     {
       "index": "15723",
@@ -2267,14 +2807,309 @@
       "translation": "Мшистая Амия"
     },
     {
+      "index": "15727",
+      "source": "Muddy Oncor",
+      "translation": "Грязный онкор"
+    },
+    {
       "index": "15730",
       "source": "Murky Oxy",
       "translation": "Мутный Окси"
     },
     {
+      "index": "15732",
+      "source": "Rocky Aulono",
+      "translation": "Каменистый Аулоно"
+    },
+    {
+      "index": "15734",
+      "source": "Scrofa",
+      "translation": "Кабан"
+    },
+    {
+      "index": "15736",
+      "source": "Vibrant Janus",
+      "translation": "Яркий Янус"
+    },
+    {
+      "index": "15798",
+      "source": "Abyssal Gladius Scale",
+      "translation": "Чешуя безднового гладиуса"
+    },
+    {
+      "index": "15799",
+      "source": "Abyssal Nobilis",
+      "translation": "Абиссальный нобилис"
+    },
+    {
+      "index": "15801",
+      "source": "Abyssal Nobilis Filet",
+      "translation": "Филе абиссальной нобилисы"
+    },
+    {
+      "index": "15804",
+      "source": "Abyssal Rasbi",
+      "translation": "Абиссальная расби"
+    },
+    {
+      "index": "15821",
+      "source": "Azure Centro Scale",
+      "translation": "Лазурная чешуйка Centro"
+    },
+    {
+      "index": "15822",
+      "source": "Azure Minni",
+      "translation": "Лазурная минни"
+    },
+    {
+      "index": "15825",
+      "source": "Azure Sphyra Filet",
+      "translation": "Лазурное филе сфиры"
+    },
+    {
+      "index": "15833",
+      "source": "Briny Argus Filet",
+      "translation": "Солёное филе аргуса"
+    },
+    {
+      "index": "15835",
+      "source": "Briny Guppi",
+      "translation": "Солёный гуппи"
+    },
+    {
+      "index": "15839",
+      "source": "Briny Linus Scale",
+      "translation": "Солёная чешуя линуса"
+    },
+    {
+      "index": "15874",
+      "source": "Divine Selachii Scale",
+      "translation": "Божественная чешуя селахия"
+    },
+    {
+      "index": "15875",
+      "source": "Divine Serra",
+      "translation": "Божественная Серра"
+    },
+    {
+      "index": "15877",
+      "source": "Divine Serra Filet",
+      "translation": "Божественное филе серры"
+    },
+    {
+      "index": "15893",
+      "source": "Greenhorn Dolo",
+      "translation": "Молодой доло"
+    },
+    {
+      "index": "15895",
+      "source": "Greenhorn Dolo Filet",
+      "translation": "Филе доло-зеленца"
+    },
+    {
+      "index": "15900",
+      "source": "Greenhorn Gorbu Scale",
+      "translation": "Чешуя Горбу Зеленорога"
+    },
+    {
+      "index": "15901",
+      "source": "Greenhorn Guppi",
+      "translation": "Гуппи-новичок"
+    },
+    {
+      "index": "15936",
+      "source": "Mossy Amia Scale",
+      "translation": "Замшелая чешуя амии"
+    },
+    {
+      "index": "15937",
+      "source": "Mossy Nano",
+      "translation": "Мшистая Нано"
+    },
+    {
+      "index": "15938",
+      "source": "Mossy Synan",
+      "translation": "Замшелый синан"
+    },
+    {
+      "index": "15940",
+      "source": "Mossy Synan Filet",
+      "translation": "Мшистое филе синана"
+    },
+    {
+      "index": "15944",
+      "source": "Muddy Auratus",
+      "translation": "Мутный ауратис"
+    },
+    {
+      "index": "15946",
+      "source": "Muddy Auratus Filet",
+      "translation": "Филе илистого аурата"
+    },
+    {
+      "index": "15948",
+      "source": "Muddy Guppi",
+      "translation": "Грязный гуппи"
+    },
+    {
+      "index": "15952",
+      "source": "Muddy Oncor Scale",
+      "translation": "Грязная чешуя онкора"
+    },
+    {
+      "index": "15956",
+      "source": "Murky Nemato Filet",
+      "translation": "Мутное филе немато"
+    },
+    {
+      "index": "15961",
+      "source": "Murky Oxy Scale",
+      "translation": "Мутная оксиевая чешуя"
+    },
+    {
+      "index": "15979",
+      "source": "Rocky Aulono Scale",
+      "translation": "Каменистая чешуя аулоно"
+    },
+    {
+      "index": "15980",
+      "source": "Rocky Doimaach",
+      "translation": "Скалистый Доймаах"
+    },
+    {
+      "index": "15982",
+      "source": "Rocky Doimaach Filet",
+      "translation": "Каменистое филе доймааха"
+    },
+    {
+      "index": "15984",
+      "source": "Rocky Minni",
+      "translation": "Каменистый минни"
+    },
+    {
+      "index": "16044",
+      "source": "Vibrant Carangi Filet",
+      "translation": "Яркое филе каранджи"
+    },
+    {
+      "index": "16049",
+      "source": "Vibrant Janus Scale",
+      "translation": "Яркая чешуя Януса"
+    },
+    {
+      "index": "16050",
+      "source": "Vibrant Nano",
+      "translation": "Яркий нано-планктон"
+    },
+    {
       "index": "16117",
       "source": "You've unlocked higher tier tasks that you can now complete for Heimlich. These tasks give more experience and hex coins.",
       "translation": "Вы открыли задания более высокого ранга, которые теперь можете выполнять для Хеймлиха. Эти задания дают больше опыта и хекс-монет."
+    },
+    {
+      "index": "16196",
+      "source": "Frenzied School Of Abyssal Gladius",
+      "translation": "Бешеная стая абиссальных гладиусов"
+    },
+    {
+      "index": "16197",
+      "source": "Frenzied School Of Azure Centro",
+      "translation": "Неистовая косяк лазурных центро"
+    },
+    {
+      "index": "16198",
+      "source": "Frenzied School Of Briny Linus",
+      "translation": "Бешеная стая солоноводных линов"
+    },
+    {
+      "index": "16199",
+      "source": "Frenzied School Of Divine Selachii",
+      "translation": "Бешеная стая божественных селахиев"
+    },
+    {
+      "index": "16200",
+      "source": "Frenzied School Of Greenhorn Gorbu",
+      "translation": "Бешеная стая юных горбу"
+    },
+    {
+      "index": "16201",
+      "source": "Frenzied School Of Mossy Amia",
+      "translation": "Бешеная стая мшистых амий"
+    },
+    {
+      "index": "16202",
+      "source": "Frenzied School Of Muddy Oncor",
+      "translation": "Бешеная стая мутных онкоров"
+    },
+    {
+      "index": "16203",
+      "source": "Frenzied School Of Murky Oxy",
+      "translation": "Бешеная стая мутных окси"
+    },
+    {
+      "index": "16204",
+      "source": "Frenzied School Of Rocky Aulono",
+      "translation": "Бешеная стая каменистых аулоно"
+    },
+    {
+      "index": "16205",
+      "source": "Frenzied School Of Vibrant Janus",
+      "translation": "Бешеная стая ярких янусов"
+    },
+    {
+      "index": "16211",
+      "source": "Miregrub Nest",
+      "translation": "Гнездо болотного червя"
+    },
+    {
+      "index": "16214",
+      "source": "School Of Abyssal Gladius",
+      "translation": "Школа абиссального гладиуса"
+    },
+    {
+      "index": "16216",
+      "source": "School Of Azure Centro",
+      "translation": "Школа Лазурного Центра"
+    },
+    {
+      "index": "16219",
+      "source": "School Of Briny Linus",
+      "translation": "Школа солоноватых линусов"
+    },
+    {
+      "index": "16220",
+      "source": "School Of Divine Selachii",
+      "translation": "Школа Божественных Селахий"
+    },
+    {
+      "index": "16223",
+      "source": "School Of Greenhorn Gorbu",
+      "translation": "Школа зеленорога Горбу"
+    },
+    {
+      "index": "16224",
+      "source": "School Of Mossy Amia",
+      "translation": "Школа Мшистой Амии"
+    },
+    {
+      "index": "16227",
+      "source": "School Of Muddy Oncor",
+      "translation": "Школа грязных онкоров"
+    },
+    {
+      "index": "16229",
+      "source": "School Of Mysterious Murky Oxy",
+      "translation": "Косяк таинственной мутной окси"
+    },
+    {
+      "index": "16230",
+      "source": "School Of Rocky Aulono",
+      "translation": "Школа каменистого Аулоно"
+    },
+    {
+      "index": "16233",
+      "source": "School Of Vibrant Janus",
+      "translation": "Школа Яркого Януса"
     },
     {
       "index": "16319",
@@ -2307,11 +3142,6 @@
       "translation": "Ох, хорошо. Спасибо тебе большое. Я не могла вынести мысли о том, что мы потеряем ещё больше яиц. Хеймлих уже спрашивал, можно ли приготовить те, что не вылупятся."
     },
     {
-      "index": "16689",
-      "source": "Heimlich says you will need to farm to get the materials needed for <style=highlight>(item=1090002)</style>.",
-      "translation": "Хеймлих говорит, что вам нужно будет заняться фермерством, чтобы получить материалы, необходимые для <style=highlight>(item=1090002)</style>."
-    },
-    {
       "index": "16899",
       "source": "Speak to Heimlich",
       "translation": "Поговорите с Хеймлихом"
@@ -2325,11 +3155,6 @@
       "index": "17043",
       "source": "Oh hey! Welcome back! Did Heimlich have the cloth we need?",
       "translation": "О, привет! С возвращением! У Хеймлиха была ткань, которая нам нужна?"
-    },
-    {
-      "index": "17145",
-      "source": "Heimlich needs to explain farming.",
-      "translation": "Хеймлих должен объяснить земледелие."
     },
     {
       "index": "17155",
@@ -2382,6 +3207,21 @@
       "translation": "Гнездо разъярённых пчёл"
     },
     {
+      "index": "21079",
+      "source": "Captured Sagi Bird",
+      "translation": "Пойманная птица саги"
+    },
+    {
+      "index": "21084",
+      "source": "Domesticated Sagi Bird",
+      "translation": "Домашняя птица саги"
+    },
+    {
+      "index": "21086",
+      "source": "Domesticated Sagi Bird Breeding",
+      "translation": "Разведение одомашненных саги-птиц"
+    },
+    {
       "index": "21130",
       "source": "Spices that Heimlich sells for use in the feast Alesi has requested. It sure isn't cheap...",
       "translation": "Специи, которые Хеймлих продаёт для использования на пиру, о котором просила Алеси. Дешёвым это точно не назовёшь..."
@@ -2392,14 +3232,359 @@
       "translation": "Пойманная коза Нуби"
     },
     {
+      "index": "21769",
+      "source": "Domesticated Nubi Goat",
+      "translation": "Домашняя коза Нуби"
+    },
+    {
+      "index": "21771",
+      "source": "Domesticated Nubi Goat Breeding",
+      "translation": "Разведение одомашненной козы Нуби"
+    },
+    {
+      "index": "22123",
+      "source": "Average Paranensis",
+      "translation": "Обычный параненсис"
+    },
+    {
+      "index": "22125",
+      "source": "Dwarf Paranensis",
+      "translation": "Параненсийский карлик"
+    },
+    {
+      "index": "22126",
+      "source": "Fihs, the Fish of Myths",
+      "translation": "Fihs, Мифическая рыба"
+    },
+    {
+      "index": "22128",
+      "source": "Giant Paranensis",
+      "translation": "Гигантский параненсис"
+    },
+    {
+      "index": "22130",
+      "source": "Large Paranensis",
+      "translation": "Большой параненсис"
+    },
+    {
       "index": "22198",
       "source": "Giant Hexite Skitch",
       "translation": "Гигантский хекс краб"
     },
     {
+      "index": "22325",
+      "source": "Hermit Crab Shell",
+      "translation": "Раковина краба-отшельника"
+    },
+    {
       "index": "22348",
       "source": "A tropical coconut that has properly grown. Heimlich would probably buy these for his cooking.",
       "translation": "Тропический кокос, который как следует созрел. Хеймлих, вероятно, купил бы их для своей готовки."
+    },
+    {
+      "index": "22381",
+      "source": "Pure Luminite Placeable Output",
+      "translation": "Размещаемый выход чистого люминита"
+    },
+    {
+      "index": "24267",
+      "source": "Average Carbot",
+      "translation": "Обычная карботка"
+    },
+    {
+      "index": "24269",
+      "source": "Average Corven",
+      "translation": "Обычный корвен"
+    },
+    {
+      "index": "24270",
+      "source": "Average Dorbel",
+      "translation": "Обычный дорбель"
+    },
+    {
+      "index": "24271",
+      "source": "Average Garbel",
+      "translation": "Обычный гарбель"
+    },
+    {
+      "index": "24272",
+      "source": "Average Murrel",
+      "translation": "Обыкновенный муррел"
+    },
+    {
+      "index": "24273",
+      "source": "Average Naskel",
+      "translation": "Обычный наскел"
+    },
+    {
+      "index": "24274",
+      "source": "Average Tharbel",
+      "translation": "Обычный тарбель"
+    },
+    {
+      "index": "24275",
+      "source": "Average Trask",
+      "translation": "Обычный траск"
+    },
+    {
+      "index": "24276",
+      "source": "Average Varkel",
+      "translation": "Средний Варкен"
+    },
+    {
+      "index": "24277",
+      "source": "Average Velgrim",
+      "translation": "Обычный велгрим"
+    },
+    {
+      "index": "24278",
+      "source": "Enormous Carbot",
+      "translation": "Огромный карбот"
+    },
+    {
+      "index": "24279",
+      "source": "Enormous Corven",
+      "translation": "Огромный корвен"
+    },
+    {
+      "index": "24280",
+      "source": "Enormous Dorbel",
+      "translation": "Огромный дорбель"
+    },
+    {
+      "index": "24281",
+      "source": "Enormous Garbel",
+      "translation": "Огромный гарбель"
+    },
+    {
+      "index": "24282",
+      "source": "Enormous Murrel",
+      "translation": "Огромный муррель"
+    },
+    {
+      "index": "24283",
+      "source": "Enormous Naskel",
+      "translation": "Огромный наскел"
+    },
+    {
+      "index": "24284",
+      "source": "Enormous Tharbel",
+      "translation": "Огромный тарбел"
+    },
+    {
+      "index": "24285",
+      "source": "Enormous Trask",
+      "translation": "Огромный траск"
+    },
+    {
+      "index": "24286",
+      "source": "Enormous Varkel",
+      "translation": "Огромный варкель"
+    },
+    {
+      "index": "24287",
+      "source": "Enormous Velgrim",
+      "translation": "Огромный вельгрим"
+    },
+    {
+      "index": "24289",
+      "source": "Large Carbot",
+      "translation": "Большой Карбот"
+    },
+    {
+      "index": "24290",
+      "source": "Large Corven",
+      "translation": "Большой корвен"
+    },
+    {
+      "index": "24291",
+      "source": "Large Dorbel",
+      "translation": "Большой дорбель"
+    },
+    {
+      "index": "24292",
+      "source": "Large Garbel",
+      "translation": "Большой гарбель"
+    },
+    {
+      "index": "24293",
+      "source": "Large Murrel",
+      "translation": "Большая муррель"
+    },
+    {
+      "index": "24294",
+      "source": "Large Naskel",
+      "translation": "Большой наскел"
+    },
+    {
+      "index": "24295",
+      "source": "Large Tharbel",
+      "translation": "Большой Тарбел"
+    },
+    {
+      "index": "24296",
+      "source": "Large Trask",
+      "translation": "Большой траск"
+    },
+    {
+      "index": "24297",
+      "source": "Large Varkel",
+      "translation": "Большой варкель"
+    },
+    {
+      "index": "24298",
+      "source": "Large Velgrim",
+      "translation": "Большой вельгрим"
+    },
+    {
+      "index": "24299",
+      "source": "Massive Carbot",
+      "translation": "Огромный карбот"
+    },
+    {
+      "index": "24300",
+      "source": "Massive Corven",
+      "translation": "Огромный корвен"
+    },
+    {
+      "index": "24301",
+      "source": "Massive Dorbel",
+      "translation": "Огромный дорбель"
+    },
+    {
+      "index": "24302",
+      "source": "Massive Garbel",
+      "translation": "Огромный гарбель"
+    },
+    {
+      "index": "24303",
+      "source": "Massive Murrel",
+      "translation": "Огромный муррель"
+    },
+    {
+      "index": "24304",
+      "source": "Massive Naskel",
+      "translation": "Огромный наскел"
+    },
+    {
+      "index": "24305",
+      "source": "Massive Tharbel",
+      "translation": "Огромный тарбель"
+    },
+    {
+      "index": "24306",
+      "source": "Massive Trask",
+      "translation": "Огромный траск"
+    },
+    {
+      "index": "24307",
+      "source": "Massive Varkel",
+      "translation": "Гигантский Варкель"
+    },
+    {
+      "index": "24308",
+      "source": "Massive Velgrim",
+      "translation": "Огромный вельгрим"
+    },
+    {
+      "index": "24309",
+      "source": "Small Carbot",
+      "translation": "Малый карбот"
+    },
+    {
+      "index": "24310",
+      "source": "Small Corven",
+      "translation": "Малый корвен"
+    },
+    {
+      "index": "24311",
+      "source": "Small Dorbel",
+      "translation": "Малый дорбель"
+    },
+    {
+      "index": "24312",
+      "source": "Small Garbel",
+      "translation": "Малый гарбель"
+    },
+    {
+      "index": "24313",
+      "source": "Small Murrel",
+      "translation": "Малый муррель"
+    },
+    {
+      "index": "24314",
+      "source": "Small Naskel",
+      "translation": "Маленький наскель"
+    },
+    {
+      "index": "24315",
+      "source": "Small Tharbel",
+      "translation": "Малый тарбел"
+    },
+    {
+      "index": "24316",
+      "source": "Small Trask",
+      "translation": "Малый траск"
+    },
+    {
+      "index": "24318",
+      "source": "Small Varkel",
+      "translation": "Малый варкель"
+    },
+    {
+      "index": "24319",
+      "source": "Small Velgrim",
+      "translation": "Малый велгрим"
+    },
+    {
+      "index": "24320",
+      "source": "Tiny Carbot",
+      "translation": "Крошечный Карбот"
+    },
+    {
+      "index": "24321",
+      "source": "Tiny Corven",
+      "translation": "Крошечный корвен"
+    },
+    {
+      "index": "24322",
+      "source": "Tiny Dorbel",
+      "translation": "Крошечный дорбель"
+    },
+    {
+      "index": "24323",
+      "source": "Tiny Garbel",
+      "translation": "Крошечный гарбель"
+    },
+    {
+      "index": "24324",
+      "source": "Tiny Murrel",
+      "translation": "Крошечная муррель"
+    },
+    {
+      "index": "24325",
+      "source": "Tiny Naskel",
+      "translation": "Крошечный наскель"
+    },
+    {
+      "index": "24326",
+      "source": "Tiny Tharbel",
+      "translation": "Крошечный тарбел"
+    },
+    {
+      "index": "24327",
+      "source": "Tiny Trask",
+      "translation": "Маленький траск"
+    },
+    {
+      "index": "24328",
+      "source": "Tiny Varkel",
+      "translation": "Крошечный Варке́ль"
+    },
+    {
+      "index": "24329",
+      "source": "Tiny Velgrim",
+      "translation": "Крошечный Вельгрим"
     },
     {
       "index": "24401",
@@ -2412,6 +3597,216 @@
       "translation": "Грубое сырое мясо лобстера"
     },
     {
+      "index": "24406",
+      "source": "Briny Oceanfish Filet",
+      "translation": "Солёное филе морской рыбы"
+    },
+    {
+      "index": "24407",
+      "source": "Clever Amia",
+      "translation": "Хитрая Амия"
+    },
+    {
+      "index": "24410",
+      "source": "Clever Amia Outputs",
+      "translation": "Продукция умной амии"
+    },
+    {
+      "index": "24411",
+      "source": "Clever Aulono",
+      "translation": "Хитрый Аулоно"
+    },
+    {
+      "index": "24412",
+      "source": "Clever Aulono Outputs",
+      "translation": "Хитроумные Выделения Аулоно"
+    },
+    {
+      "index": "24413",
+      "source": "Clever Centro",
+      "translation": "Хитроумный Центро"
+    },
+    {
+      "index": "24414",
+      "source": "Clever Centro Outputs",
+      "translation": "Хитроумный выход Центро"
+    },
+    {
+      "index": "24415",
+      "source": "Clever Gladius",
+      "translation": "Хитрый гладиус"
+    },
+    {
+      "index": "24416",
+      "source": "Clever Gladius Outputs",
+      "translation": "Умные выходы Gladius"
+    },
+    {
+      "index": "24417",
+      "source": "Clever Gorbu",
+      "translation": "Хитрый Горбу"
+    },
+    {
+      "index": "24418",
+      "source": "Clever Gorbu Outputs",
+      "translation": "Хитроумные изделия Горбу"
+    },
+    {
+      "index": "24419",
+      "source": "Clever Janus",
+      "translation": "Хитрый Янус"
+    },
+    {
+      "index": "24420",
+      "source": "Clever Janus Outputs",
+      "translation": "Хитроумные изделия Януса"
+    },
+    {
+      "index": "24421",
+      "source": "Clever Linus",
+      "translation": "Хитрый Линус"
+    },
+    {
+      "index": "24422",
+      "source": "Clever Linus Outputs",
+      "translation": "Хитроумный Линус: результат"
+    },
+    {
+      "index": "24423",
+      "source": "Clever Oncor",
+      "translation": "Хитрый онкор"
+    },
+    {
+      "index": "24424",
+      "source": "Clever Oncor Outputs",
+      "translation": "Хитрые продукты Oncor"
+    },
+    {
+      "index": "24426",
+      "source": "Clever Oxy",
+      "translation": "Хитрый Окси"
+    },
+    {
+      "index": "24427",
+      "source": "Clever Oxy Outputs",
+      "translation": "Хитрые выходы Oxy"
+    },
+    {
+      "index": "24428",
+      "source": "Clever Selachii",
+      "translation": "Хитрая селахия"
+    },
+    {
+      "index": "24429",
+      "source": "Clever Selachii Outputs",
+      "translation": "Хитрые продукты Selachii"
+    },
+    {
+      "index": "24439",
+      "source": "Determined Amia",
+      "translation": "Решительная Амия"
+    },
+    {
+      "index": "24441",
+      "source": "Determined Amia Outputs",
+      "translation": "Решительные результаты амии"
+    },
+    {
+      "index": "24442",
+      "source": "Determined Aulono",
+      "translation": "Решительный Аулоно"
+    },
+    {
+      "index": "24444",
+      "source": "Determined Aulono Outputs",
+      "translation": "Решительный Aulono Выходы"
+    },
+    {
+      "index": "24445",
+      "source": "Determined Centro",
+      "translation": "Решительный Центро"
+    },
+    {
+      "index": "24447",
+      "source": "Determined Centro Outputs",
+      "translation": "Упорный Centro Выходы"
+    },
+    {
+      "index": "24448",
+      "source": "Determined Gladius",
+      "translation": "Решительный гладиус"
+    },
+    {
+      "index": "24450",
+      "source": "Determined Gladius Outputs",
+      "translation": "Решительный гладиус (выход)"
+    },
+    {
+      "index": "24451",
+      "source": "Determined Gorbu",
+      "translation": "Решительный Горбу"
+    },
+    {
+      "index": "24453",
+      "source": "Determined Gorbu Outputs",
+      "translation": "Решительный Горбу (продукты)"
+    },
+    {
+      "index": "24455",
+      "source": "Determined Janus",
+      "translation": "Решительный Янус"
+    },
+    {
+      "index": "24457",
+      "source": "Determined Janus Outputs",
+      "translation": "Решительный Янус: результаты"
+    },
+    {
+      "index": "24458",
+      "source": "Determined Linus",
+      "translation": "Решительный Линус"
+    },
+    {
+      "index": "24460",
+      "source": "Determined Linus Outputs",
+      "translation": "Упитанный Линус (результат)"
+    },
+    {
+      "index": "24461",
+      "source": "Determined Oncor",
+      "translation": "Решительный онкор"
+    },
+    {
+      "index": "24463",
+      "source": "Determined Oncor Outputs",
+      "translation": "Упитанный онкор: добыча"
+    },
+    {
+      "index": "24464",
+      "source": "Determined Oxy",
+      "translation": "Решительный Окси"
+    },
+    {
+      "index": "24466",
+      "source": "Determined Oxy Outputs",
+      "translation": "Решительный Окси Выводы"
+    },
+    {
+      "index": "24467",
+      "source": "Determined Selachii",
+      "translation": "Упитанный селахий"
+    },
+    {
+      "index": "24469",
+      "source": "Determined Selachii Outputs",
+      "translation": "Решительные выходы Селахии"
+    },
+    {
+      "index": "24470",
+      "source": "Divine Oceanfish Filet",
+      "translation": "Божественное филе океанской рыбы"
+    },
+    {
       "index": "24526",
       "source": "Fine Lobster",
       "translation": "Хороший лобстер"
@@ -2420,6 +3815,111 @@
       "index": "24528",
       "source": "Fine Raw Lobster Meat",
       "translation": "Хорошее сырое мясо лобстера"
+    },
+    {
+      "index": "24536",
+      "source": "Greenhorn Oceanfish Filet",
+      "translation": "Филе океанической рыбы новичка"
+    },
+    {
+      "index": "24539",
+      "source": "Impressive Amia",
+      "translation": "Впечатляющая амия"
+    },
+    {
+      "index": "24541",
+      "source": "Impressive Amia Outputs",
+      "translation": "Впечатляющая амия (результат)"
+    },
+    {
+      "index": "24542",
+      "source": "Impressive Aulono",
+      "translation": "Впечатляющий Аулоно"
+    },
+    {
+      "index": "24544",
+      "source": "Impressive Aulono Outputs",
+      "translation": "Впечатляющие выходы Aulono"
+    },
+    {
+      "index": "24545",
+      "source": "Impressive Centro",
+      "translation": "Впечатляющий центро"
+    },
+    {
+      "index": "24547",
+      "source": "Impressive Centro Outputs",
+      "translation": "Впечатляющие уловы центро"
+    },
+    {
+      "index": "24548",
+      "source": "Impressive Gladius",
+      "translation": "Впечатляющий гладиус"
+    },
+    {
+      "index": "24550",
+      "source": "Impressive Gladius Outputs",
+      "translation": "Впечатляющие трофеи гладиуса"
+    },
+    {
+      "index": "24551",
+      "source": "Impressive Gorbu",
+      "translation": "Впечатляющий горбу"
+    },
+    {
+      "index": "24553",
+      "source": "Impressive Gorbu Outputs",
+      "translation": "Впечатляющие выходы горбу"
+    },
+    {
+      "index": "24554",
+      "source": "Impressive Janus",
+      "translation": "Впечатляющий Янус"
+    },
+    {
+      "index": "24556",
+      "source": "Impressive Janus Outputs",
+      "translation": "Впечатляющие уловы януса"
+    },
+    {
+      "index": "24557",
+      "source": "Impressive Linus",
+      "translation": "Впечатляющий линус"
+    },
+    {
+      "index": "24559",
+      "source": "Impressive Linus Outputs",
+      "translation": "Впечатляющие выходы линуса"
+    },
+    {
+      "index": "24560",
+      "source": "Impressive Oncor",
+      "translation": "Впечатляющий онкор"
+    },
+    {
+      "index": "24562",
+      "source": "Impressive Oncor Outputs",
+      "translation": "Впечатляющие результаты онкора"
+    },
+    {
+      "index": "24563",
+      "source": "Impressive Oxy",
+      "translation": "Впечатляющий окси"
+    },
+    {
+      "index": "24565",
+      "source": "Impressive Oxy Outputs",
+      "translation": "Впечатляющие результаты окси"
+    },
+    {
+      "index": "24566",
+      "source": "Impressive Selachii",
+      "translation": "Впечатляющий селахий"
+    },
+    {
+      "index": "24568",
+      "source": "Impressive Selachii Outputs",
+      "translation": "Впечатляющий селахий (выход)"
     },
     {
       "index": "24570",
@@ -2432,6 +3932,21 @@
       "translation": "Прочное сырое мясо лобстера"
     },
     {
+      "index": "24616",
+      "source": "Mossy Oceanfish Filet",
+      "translation": "Мшистое филе океанской рыбы"
+    },
+    {
+      "index": "24617",
+      "source": "Muddy Oceanfish Filet",
+      "translation": "Филе грязной океанической рыбы"
+    },
+    {
+      "index": "24618",
+      "source": "Murky Oceanfish Filet",
+      "translation": "Филе мутной океанской рыбы"
+    },
+    {
       "index": "24626",
       "source": "Ornate Lobster",
       "translation": "Витиеватый лобстер"
@@ -2440,6 +3955,16 @@
       "index": "24628",
       "source": "Ornate Raw Lobster Meat",
       "translation": "Витиеватое сырое мясо лобстера"
+    },
+    {
+      "index": "24631",
+      "source": "Peerless Lobster",
+      "translation": "Бесподобный лобстер"
+    },
+    {
+      "index": "24633",
+      "source": "Peerless Raw Lobster Meat",
+      "translation": "Бесподобное сырое мясо лобстера"
     },
     {
       "index": "24636",
@@ -2452,14 +3977,799 @@
       "translation": "Нетронутое сырое мясо лобстера"
     },
     {
+      "index": "24643",
+      "source": "Quick Amia",
+      "translation": "Быстрая амия"
+    },
+    {
+      "index": "24644",
+      "source": "Quick Amia Outputs",
+      "translation": "Быстрые результаты Амии"
+    },
+    {
+      "index": "24645",
+      "source": "Quick Aulono",
+      "translation": "Быстрый аулоно"
+    },
+    {
+      "index": "24646",
+      "source": "Quick Aulono Outputs",
+      "translation": "Быстрые продукты аулоно"
+    },
+    {
+      "index": "24647",
+      "source": "Quick Centro",
+      "translation": "Быстрый Центро"
+    },
+    {
+      "index": "24648",
+      "source": "Quick Centro Outputs",
+      "translation": "Быстрые выходы Centro"
+    },
+    {
+      "index": "24649",
+      "source": "Quick Gladius",
+      "translation": "Быстрый гладиус"
+    },
+    {
+      "index": "24650",
+      "source": "Quick Gladius Outputs",
+      "translation": "Быстрый Гладиус: результат"
+    },
+    {
+      "index": "24651",
+      "source": "Quick Gorbu",
+      "translation": "Быстрый горбу"
+    },
+    {
+      "index": "24652",
+      "source": "Quick Gorbu Outputs",
+      "translation": "Быстрый Горбу: выходы"
+    },
+    {
+      "index": "24653",
+      "source": "Quick Janus",
+      "translation": "Быстрый Янус"
+    },
+    {
+      "index": "24654",
+      "source": "Quick Janus Outputs",
+      "translation": "Быстрые продукты Януса"
+    },
+    {
+      "index": "24655",
+      "source": "Quick Linus",
+      "translation": "Шустрый Линус"
+    },
+    {
+      "index": "24656",
+      "source": "Quick Linus Outputs",
+      "translation": "Проворные продукты Линуса"
+    },
+    {
+      "index": "24657",
+      "source": "Quick Oncor",
+      "translation": "Быстрый онкор"
+    },
+    {
+      "index": "24658",
+      "source": "Quick Oncor Outputs",
+      "translation": "Быстрые продукты онкора"
+    },
+    {
+      "index": "24659",
+      "source": "Quick Oxy",
+      "translation": "Быстрый Окси"
+    },
+    {
+      "index": "24660",
+      "source": "Quick Oxy Outputs",
+      "translation": "Быстрая выдача окси"
+    },
+    {
+      "index": "24661",
+      "source": "Quick Selachii",
+      "translation": "Быстрая селахия"
+    },
+    {
+      "index": "24662",
+      "source": "Quick Selachii Outputs",
+      "translation": "Быстрые Selachii: выходы"
+    },
+    {
+      "index": "24663",
+      "source": "Rocky Oceanfish Filet",
+      "translation": "Филе каменистого океанического окуня"
+    },
+    {
+      "index": "24697",
+      "source": "T10 Average Trophy Fish Outputs",
+      "translation": "T10 Средние выходы трофейной рыбы"
+    },
+    {
+      "index": "24698",
+      "source": "T10 Enormous Trophy Fish Outputs",
+      "translation": "T10 Огромные трофейные рыбные продукты"
+    },
+    {
+      "index": "24699",
+      "source": "T10 Large Trophy Fish Outputs",
+      "translation": "T10 Большие трофейные рыбные продукты"
+    },
+    {
+      "index": "24702",
+      "source": "T10 Massive Trophy Fish Outputs",
+      "translation": "T10 Выходы массивной трофейной рыбы"
+    },
+    {
+      "index": "24703",
+      "source": "T10 Small Trophy Fish Outputs",
+      "translation": "T10 Малые трофейные рыбные продукты"
+    },
+    {
+      "index": "24704",
+      "source": "T10 Tiny Trophy Fish Outputs",
+      "translation": "T10 Выходы крошечной трофейной рыбы Outputs"
+    },
+    {
+      "index": "24706",
+      "source": "T1 Average Trophy Fish Outputs",
+      "translation": "T1 Средняя трофейная рыба: выход продукции"
+    },
+    {
+      "index": "24707",
+      "source": "T1 Enormous Trophy Fish Outputs",
+      "translation": "T1 Огромные трофейные рыбные продукты"
+    },
+    {
+      "index": "24708",
+      "source": "T1 Large Trophy Fish Outputs",
+      "translation": "T1 Большие трофейные рыбные выходы"
+    },
+    {
+      "index": "24710",
+      "source": "T1 Massive Trophy Fish Outputs",
+      "translation": "T1 Массивные трофейные рыбные выходы"
+    },
+    {
+      "index": "24711",
+      "source": "T1 Small Trophy Fish Outputs",
+      "translation": "T1 Малые трофейные рыбные продукты"
+    },
+    {
+      "index": "24712",
+      "source": "T1 Tiny Trophy Fish Outputs",
+      "translation": "T1 Крошечный вывод трофейной рыбы"
+    },
+    {
+      "index": "24713",
+      "source": "T2 Average Trophy Fish Outputs",
+      "translation": "T2 Средние трофейные рыбные уловы"
+    },
+    {
+      "index": "24714",
+      "source": "T2 Enormous Trophy Fish Outputs",
+      "translation": "T2 Огромные трофейные рыбные выходы"
+    },
+    {
+      "index": "24715",
+      "source": "T2 Large Trophy Fish Outputs",
+      "translation": "T2 Большие трофейные рыбные отходы"
+    },
+    {
+      "index": "24717",
+      "source": "T2 Massive Trophy Fish Outputs",
+      "translation": "T2 Массивные трофейные рыбные продукты"
+    },
+    {
+      "index": "24718",
+      "source": "T2 Small Trophy Fish Outputs",
+      "translation": "T2 Малые выходы трофейной рыбы"
+    },
+    {
+      "index": "24719",
+      "source": "T2 Tiny Trophy Fish Outputs",
+      "translation": "T2 Выходы крошечной трофейной рыбки"
+    },
+    {
+      "index": "24721",
+      "source": "T3 Average Trophy Fish Outputs",
+      "translation": "T3 Средние трофейные рыбные уловы"
+    },
+    {
+      "index": "24722",
+      "source": "T3 Enormous Trophy Fish Outputs",
+      "translation": "T3 Огромные трофейные рыбные ресурсы"
+    },
+    {
+      "index": "24723",
+      "source": "T3 Large Trophy Fish Outputs",
+      "translation": "T3 Большие выходы трофейной рыбы"
+    },
+    {
+      "index": "24725",
+      "source": "T3 Massive Trophy Fish Outputs",
+      "translation": "T3 Массовые трофейные рыбные выходы"
+    },
+    {
+      "index": "24726",
+      "source": "T3 Small Trophy Fish Outputs",
+      "translation": "T3 Малый трофейный выпуск рыбы"
+    },
+    {
+      "index": "24727",
+      "source": "T3 Tiny Trophy Fish Outputs",
+      "translation": "T3 Выходы крошечной трофейной рыбки"
+    },
+    {
+      "index": "24729",
+      "source": "T4 Average Trophy Fish Outputs",
+      "translation": "T4 Средние трофейные уловы рыбы Outputs"
+    },
+    {
+      "index": "24730",
+      "source": "T4 Enormous Trophy Fish Outputs",
+      "translation": "T4 Огромные выходы трофейной рыбы"
+    },
+    {
+      "index": "24731",
+      "source": "T4 Large Trophy Fish Outputs",
+      "translation": "T4 Большие выходы трофейной рыбы"
+    },
+    {
+      "index": "24733",
+      "source": "T4 Massive Trophy Fish Outputs",
+      "translation": "T4 Массивные трофейные рыбные уловы"
+    },
+    {
+      "index": "24734",
+      "source": "T4 Small Trophy Fish Outputs",
+      "translation": "T4 Малые трофейные рыбные продукты"
+    },
+    {
+      "index": "24735",
+      "source": "T4 Tiny Trophy Fish Outputs",
+      "translation": "T4 Крошечные выходы трофейной рыбы"
+    },
+    {
+      "index": "24737",
+      "source": "T5 Average Trophy Fish Outputs",
+      "translation": "T5 Средние трофейные рыбные показатели"
+    },
+    {
+      "index": "24738",
+      "source": "T5 Enormous Trophy Fish Outputs",
+      "translation": "T5 Огромные трофейные рыбные продукты"
+    },
+    {
+      "index": "24739",
+      "source": "T5 Large Trophy Fish Outputs",
+      "translation": "T5 Большие трофейные рыбные ресурсы"
+    },
+    {
+      "index": "24741",
+      "source": "T5 Massive Trophy Fish Outputs",
+      "translation": "T5 Огромные трофейные рыбные выходы"
+    },
+    {
+      "index": "24742",
+      "source": "T5 Small Trophy Fish Outputs",
+      "translation": "T5 Малые трофейные рыбные выходы"
+    },
+    {
+      "index": "24743",
+      "source": "T5 Tiny Trophy Fish Outputs",
+      "translation": "T5 Миниатюрные выходы трофейной рыбы"
+    },
+    {
+      "index": "24745",
+      "source": "T6 Average Trophy Fish Outputs",
+      "translation": "T6 Средние показатели трофейной рыбы"
+    },
+    {
+      "index": "24746",
+      "source": "T6 Enormous Trophy Fish Outputs",
+      "translation": "T6 Огромные трофейные рыбные ресурсы"
+    },
+    {
+      "index": "24747",
+      "source": "T6 Large Trophy Fish Outputs",
+      "translation": "T6 Большие выходы трофейной рыбы"
+    },
+    {
+      "index": "24749",
+      "source": "T6 Massive Trophy Fish Outputs",
+      "translation": "T6 Огромные трофейные рыбные ресурсы Corven"
+    },
+    {
+      "index": "24750",
+      "source": "T6 Small Trophy Fish Outputs",
+      "translation": "T6 Малая трофейная рыба (выходы)"
+    },
+    {
+      "index": "24751",
+      "source": "T6 Tiny Trophy Fish Outputs",
+      "translation": "T6 Микроскопические выходные трофейные рыбы"
+    },
+    {
+      "index": "24753",
+      "source": "T7 Average Trophy Fish Outputs",
+      "translation": "T7 Средние трофейные уловы рыбы"
+    },
+    {
+      "index": "24754",
+      "source": "T7 Enormous Trophy Fish Outputs",
+      "translation": "T7 Огромные трофейные рыбные выходы"
+    },
+    {
+      "index": "24755",
+      "source": "T7 Large Trophy Fish Outputs",
+      "translation": "T7 Большой трофейный улов: выходы"
+    },
+    {
+      "index": "24757",
+      "source": "T7 Massive Trophy Fish Outputs",
+      "translation": "T7 Массивные выходы трофейной рыбы"
+    },
+    {
+      "index": "24758",
+      "source": "T7 Small Trophy Fish Outputs",
+      "translation": "T7 Маленький трофейный выход рыбы"
+    },
+    {
+      "index": "24759",
+      "source": "T7 Tiny Trophy Fish Outputs",
+      "translation": "T7 Миниатюрные трофейные рыбные продукты"
+    },
+    {
+      "index": "24761",
+      "source": "T8 Average Trophy Fish Outputs",
+      "translation": "T8 Средние трофейные рыбные уловы"
+    },
+    {
+      "index": "24762",
+      "source": "T8 Enormous Trophy Fish Outputs",
+      "translation": "T8 Огромные выходы трофейной рыбы"
+    },
+    {
+      "index": "24763",
+      "source": "T8 Large Trophy Fish Outputs",
+      "translation": "T8 Большие выходы трофейной рыбы"
+    },
+    {
+      "index": "24765",
+      "source": "T8 Massive Trophy Fish Outputs",
+      "translation": "T8 Огромные трофейные рыбные выходы"
+    },
+    {
+      "index": "24766",
+      "source": "T8 Small Trophy Fish Outputs",
+      "translation": "T8 Малые трофейные рыбные ресурсы"
+    },
+    {
+      "index": "24767",
+      "source": "T8 Tiny Trophy Fish Outputs",
+      "translation": "T8 Миниатюрные трофейные рыбные продукты"
+    },
+    {
+      "index": "24769",
+      "source": "T9 Average Trophy Fish Outputs",
+      "translation": "T9 Средние трофейные рыбные уловы"
+    },
+    {
+      "index": "24770",
+      "source": "T9 Enormous Trophy Fish Outputs",
+      "translation": "T9 Огромные трофейные рыбные продукты"
+    },
+    {
+      "index": "24771",
+      "source": "T9 Large Trophy Fish Outputs",
+      "translation": "T9 Большие трофейные рыбные продукты"
+    },
+    {
+      "index": "24773",
+      "source": "T9 Massive Trophy Fish Outputs",
+      "translation": "T9 Массовый выход трофейной рыбы"
+    },
+    {
+      "index": "24774",
+      "source": "T9 Small Trophy Fish Outputs",
+      "translation": "T9 Небольшие выходы трофейной рыбы"
+    },
+    {
+      "index": "24775",
+      "source": "T9 Tiny Trophy Fish Outputs",
+      "translation": "T9 Микроскопические выходы трофейной рыбы"
+    },
+    {
+      "index": "24777",
+      "source": "The Amia That Got Away",
+      "translation": "Амия, которая сорвалась"
+    },
+    {
+      "index": "24779",
+      "source": "The Amia That Got Away Outputs",
+      "translation": "Амия, которая сорвалась — выходы"
+    },
+    {
+      "index": "24780",
+      "source": "The Aulono That Got Away",
+      "translation": "Аулоно, Который Ускользнул"
+    },
+    {
+      "index": "24782",
+      "source": "The Aulono That Got Away Outputs",
+      "translation": "Упущенный аулоно: результаты"
+    },
+    {
+      "index": "24783",
+      "source": "The Centro That Got Away",
+      "translation": "Сбежавшее Centro"
+    },
+    {
+      "index": "24785",
+      "source": "The Centro That Got Away Outputs",
+      "translation": "Ускользнувший Centro: результаты выхода"
+    },
+    {
+      "index": "24786",
+      "source": "The Gladius That Got Away",
+      "translation": "Гладиус, который сорвался"
+    },
+    {
+      "index": "24788",
+      "source": "The Gladius That Got Away Outputs",
+      "translation": "Гладиус, который ускользнул Выходы"
+    },
+    {
+      "index": "24789",
+      "source": "The Gorbu That Got Away",
+      "translation": "Горбу, который сорвался"
+    },
+    {
+      "index": "24791",
+      "source": "The Gorbu That Got Away Outputs",
+      "translation": "Горбу, который ушёл, выходные ресурсы"
+    },
+    {
+      "index": "24792",
+      "source": "The Janus That Got Away",
+      "translation": "Янус, который сорвался"
+    },
+    {
+      "index": "24794",
+      "source": "The Janus That Got Away Outputs",
+      "translation": "Выходы «Ускользнувший Янус»"
+    },
+    {
+      "index": "24795",
+      "source": "The Linus That Got Away",
+      "translation": "Линус, который сорвался"
+    },
+    {
+      "index": "24797",
+      "source": "The Linus That Got Away Outputs",
+      "translation": "Линус, который ускользнул: продукция"
+    },
+    {
+      "index": "24798",
+      "source": "The Oncor That Got Away",
+      "translation": "Онкор, который сорвался"
+    },
+    {
+      "index": "24800",
+      "source": "The Oncor That Got Away Outputs",
+      "translation": "Онкор, который сорвался: выходы"
+    },
+    {
+      "index": "24802",
+      "source": "The Oxy That Got Away",
+      "translation": "Окси, который сорвался"
+    },
+    {
+      "index": "24804",
+      "source": "The Oxy That Got Away Outputs",
+      "translation": "Окси, который ушёл Выходы"
+    },
+    {
+      "index": "24805",
+      "source": "The Selachii That Got Away",
+      "translation": "Селахии, что сорвалась с крючка"
+    },
+    {
+      "index": "24807",
+      "source": "The Selachii That Got Away Outputs",
+      "translation": "Селахии, который сорвался: результаты"
+    },
+    {
+      "index": "24819",
+      "source": "Vibrant Oceanfish Filet",
+      "translation": "Яркое филе океанической рыбы"
+    },
+    {
       "index": "24955",
       "source": "Refund Heimlich Business Voucher",
       "translation": "Возврат ваучера «Бизнес Хеймлиха»"
     },
     {
+      "index": "25365",
+      "source": "Baited Abyssal Nobilis Spot",
+      "translation": "Место с приманкой для Абиссального Нобилиса"
+    },
+    {
+      "index": "25367",
+      "source": "Baited Azure Sphyra Spot",
+      "translation": "Приманенное место лазурной сфиры"
+    },
+    {
+      "index": "25368",
+      "source": "Baited Briny Argus Spot",
+      "translation": "Прикормленное солоноватое место с аргусом"
+    },
+    {
+      "index": "25369",
+      "source": "Baited Divine Serra Spot",
+      "translation": "Прикормленное место Божественной Серры"
+    },
+    {
+      "index": "25370",
+      "source": "Baited Greenhorn Dolo Spot",
+      "translation": "Место Доло для приманенного зеленорога"
+    },
+    {
+      "index": "25371",
+      "source": "Baited Mossy Synan Spot",
+      "translation": "Прикормленное мшистое место Синана"
+    },
+    {
+      "index": "25372",
+      "source": "Baited Muddy Auratus Spot",
+      "translation": "Приманенное илистое место аурата"
+    },
+    {
+      "index": "25373",
+      "source": "Baited Murky Nemato Spot",
+      "translation": "Место с приманкой для Мутного немато"
+    },
+    {
+      "index": "25374",
+      "source": "Baited Rocky Doimaach Spot",
+      "translation": "Приманенная каменистая точка Доймаах"
+    },
+    {
+      "index": "25375",
+      "source": "Baited School Of Abyssal Nobilis",
+      "translation": "Прикормленная стая абиссальных нобилисов"
+    },
+    {
+      "index": "25376",
+      "source": "Baited School Of Azure Sphyra",
+      "translation": "Прикормленная стая лазурных сфир"
+    },
+    {
+      "index": "25377",
+      "source": "Baited School Of Briny Argus",
+      "translation": "Прикормленная стая солёного аргуса"
+    },
+    {
+      "index": "25378",
+      "source": "Baited School Of Divine Serra",
+      "translation": "Прикормленная стая божественной Серры"
+    },
+    {
+      "index": "25379",
+      "source": "Baited School Of Greenhorn Dolo",
+      "translation": "Прикормленная стая зеленого доло"
+    },
+    {
+      "index": "25380",
+      "source": "Baited School Of Mossy Synan",
+      "translation": "Прикормленная стая мшистых синанов"
+    },
+    {
+      "index": "25381",
+      "source": "Baited School Of Muddy Auratus",
+      "translation": "Прикормленная стая мутного ауратуса"
+    },
+    {
+      "index": "25382",
+      "source": "Baited School Of Murky Nemato",
+      "translation": "Приманенная стая мутных немато"
+    },
+    {
+      "index": "25383",
+      "source": "Baited School Of Rocky Doimaach",
+      "translation": "Прикормленная стая каменистого доймааха"
+    },
+    {
+      "index": "25384",
+      "source": "Baited School Of Vibrant Carangi",
+      "translation": "Прикормленная стая ярких каранксов"
+    },
+    {
+      "index": "25385",
+      "source": "Baited Vibrant Carangi Spot",
+      "translation": "Место ловли пёстрого каранкса на приманку"
+    },
+    {
+      "index": "25386",
+      "source": "Dormant School of Abyssal Nobilis",
+      "translation": "Спящая стая Абиссальной Нобилис"
+    },
+    {
+      "index": "25387",
+      "source": "Dormant School of Azure Sphyra",
+      "translation": "Спящая стая лазурной Сфиры"
+    },
+    {
+      "index": "25388",
+      "source": "Dormant School Of Briny Argus",
+      "translation": "Спящая косяк солёного аргуса"
+    },
+    {
+      "index": "25389",
+      "source": "Dormant School of Divine Serra",
+      "translation": "Спящая стая Божественной Серры"
+    },
+    {
+      "index": "25390",
+      "source": "Dormant School of Greenhorn Dolo",
+      "translation": "Спящая стая зеленорога Доло"
+    },
+    {
+      "index": "25391",
+      "source": "Dormant School of Mossy Synan",
+      "translation": "Спящая стая мшистых синанов"
+    },
+    {
+      "index": "25392",
+      "source": "Dormant School of Muddy Auratus",
+      "translation": "Спящее стадо мутного аурата"
+    },
+    {
+      "index": "25393",
+      "source": "Dormant School of Murky Nemato",
+      "translation": "Спящая стая мутных нематод"
+    },
+    {
+      "index": "25394",
+      "source": "Dormant School of Rocky Doimaach",
+      "translation": "Спящая стая каменистых доймаахов"
+    },
+    {
+      "index": "25395",
+      "source": "Dormant School of Vibrant Carangi",
+      "translation": "Дремлющий косяк ярких каранги"
+    },
+    {
+      "index": "25398",
+      "source": "Hidden Abyssal Nobilis Spot",
+      "translation": "Скрытое место Абиссального Нобилиса"
+    },
+    {
+      "index": "25399",
+      "source": "Hidden Azure Sphyra Spot",
+      "translation": "Скрытое место Azure Sphyra"
+    },
+    {
+      "index": "25400",
+      "source": "Hidden Briny Argus Spot",
+      "translation": "Скрытое солёное место Аргуса"
+    },
+    {
+      "index": "25401",
+      "source": "Hidden Divine Serra Spot",
+      "translation": "Скрытое священное место Серры"
+    },
+    {
+      "index": "25402",
+      "source": "Hidden Greenhorn Dolo Spot",
+      "translation": "Скрытое место Доло для новичков"
+    },
+    {
+      "index": "25403",
+      "source": "Hidden Mossy Synan Spot",
+      "translation": "Скрытое мшистое гнездо синана"
+    },
+    {
+      "index": "25404",
+      "source": "Hidden Muddy Auratus Spot",
+      "translation": "Скрытое грязное место обитания аурата"
+    },
+    {
+      "index": "25405",
+      "source": "Hidden Murky Nemato Spot",
+      "translation": "Скрытое мутное место немато"
+    },
+    {
+      "index": "25406",
+      "source": "Hidden Rocky Doimaach Spot",
+      "translation": "Скрытое каменистое место Доимаача"
+    },
+    {
+      "index": "25407",
+      "source": "Hidden Vibrant Carangi Spot",
+      "translation": "Скрытое яркое место каренги"
+    },
+    {
+      "index": "25408",
+      "source": "Inactive Carbot Pod",
+      "translation": "Неактивная капсула карбота"
+    },
+    {
+      "index": "25411",
+      "source": "Inactive Corven Pod",
+      "translation": "Неактивная капсула Корвена"
+    },
+    {
+      "index": "25412",
+      "source": "Inactive Dorbel Pod",
+      "translation": "Неактивный стручок дорбеля"
+    },
+    {
+      "index": "25413",
+      "source": "Inactive Garbel Pod",
+      "translation": "Неактивный стручок гарбела"
+    },
+    {
+      "index": "25414",
+      "source": "Inactive Murrel Pod",
+      "translation": "Неактивная капсула муррела"
+    },
+    {
+      "index": "25415",
+      "source": "Inactive Naskel Pod",
+      "translation": "Неактивный кокон Наскела"
+    },
+    {
+      "index": "25416",
+      "source": "Inactive Tharbel Pod",
+      "translation": "Неактивный стручок тарбела"
+    },
+    {
+      "index": "25417",
+      "source": "Inactive Trask Pod",
+      "translation": "Неактивный стручок траска"
+    },
+    {
+      "index": "25418",
+      "source": "Inactive Varkel Pod",
+      "translation": "Неактивный стручок Варкела"
+    },
+    {
+      "index": "25419",
+      "source": "Inactive Velgrim Pod",
+      "translation": "Неактивная капсула велгрима"
+    },
+    {
       "index": "25501",
       "source": "I had told <b>Heimlich</b> the story of a giant fish that roams the waters, one which toppled rafts and ships alike. You want to know what their reaction to that story was?",
       "translation": "Я рассказал <b>Хеймлиху</b> историю о гигантской рыбе, что бороздит воды и опрокидывает и плоты, и корабли. Хочешь знать, какой была их реакция на эту историю?"
+    },
+    {
+      "index": "25507",
+      "source": "Go ahead and catch 5 <style=highlight>Briny Argus</style>, and then deliver them to <b>Heimlich</b>, maybe they will find the fish they are looking for in that bunch!",
+      "translation": "Поймай 5 <style=highlight>Briny Argus</style>, а затем доставь их <b>Heimlich</b>, может, в этой куче найдётся рыба, которую они ищут!"
+    },
+    {
+      "index": "25597",
+      "source": "Return to Heimlich with the 5 <style=highlight>(item=1110017)</style>",
+      "translation": "Вернитесь к Heimlich с 5 <style=highlight>(item=1110017)</style>"
+    },
+    {
+      "index": "25731",
+      "source": "Crystalized Lobster Chitin",
+      "translation": "Кристаллизованный лобстерный хитин"
+    },
+    {
+      "index": "25770",
+      "source": "Hardened Lobster Chitin",
+      "translation": "Закалённый панцирь лобстера"
+    },
+    {
+      "index": "25778",
+      "source": "Hexite Infused Lobster Chitin",
+      "translation": "Хитиновый панцирь лобстера, пропитанный гекситом"
     },
     {
       "index": "26087",

@@ -5,7 +5,7 @@ import localize
 
 class CatalogTest(unittest.TestCase):
     def make_catalog(self):
-        obj='{"m_Hash":"6b3aedddc200617548234b0c8142d4e6","m_Crc":1949562651,"m_BundleSize":1426483502}'
+        obj='{"m_Hash":"'+localize.BUNDLE_ID+'","m_Crc":2591495299,"m_BundleSize":1435684223}'
         blob=b'header'+obj.encode('utf-16le')+b'\x07LUnity.ResourceManager'+b'other'
         return json.dumps({'m_ExtraDataString':base64.b64encode(blob).decode(),'other':'unchanged'}).encode()
     def test_updates_only_target_record_without_shifting_offsets(self):
